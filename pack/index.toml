@@ -1201,12 +1201,14 @@ file = "mods/caveoverhaul-1.4.2.1.jar"
 hash = "a4fcf69798487d386a0de55afaea55158b672f5e95c74864dd5b0f83e9c6432a"
 
 [[files]]
-file = "mods/cc-tweaked-1.21.11-fabric-1.117.0-23985ef41f182e3b89fa6453fb408b4bc41c3594.jar"
-hash = "dec4e8f455247730c7e0763b059ce8c5fc1c5617d15b06d42a788154fa043904"
+file = "mods/cc-polymer.pw.toml"
+hash = "8cd3db5d24ff98e157224dc0b49970e926b4c69cd47315b8c4d308875ed5ac5d"
+metafile = true
 
 [[files]]
-file = "mods/cc-tweaked-polymer-patch-1.117.0.0-beta+1.21.11.jar"
-hash = "c220aaf78321b50d165f451453762f28056d0fd1445e383ce01bc09b6dfc90cd"
+file = "mods/cc-tweaked.pw.toml"
+hash = "9fb6298b75abc16f41cc6057de892c27acacdafeafae7f8ac46c1e8f222ade40"
+metafile = true
 
 [[files]]
 file = "mods/chalk-3.1.1-polymania+1.21.7.jar"
