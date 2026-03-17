@@ -1120,12 +1120,22 @@ hash = "319b729022bc25200220930b3afe1cc26b050c8c4f30bc16de1027fe26263121"
 metafile = true
 
 [[files]]
+file = "mods/cc-polymer.pw.toml"
+hash = "8cd3db5d24ff98e157224dc0b49970e926b4c69cd47315b8c4d308875ed5ac5d"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked-1.21.10-fabric-1.116.2-52b127fcc7483674b320a41c5682e733589c7e14.jar"
 hash = "219d1903ed771e310d7e6f32b7a7cc339c58c0de831153617814c7b4722cd097"
 
 [[files]]
 file = "mods/cc-tweaked-polymer-patch-1.116.2.0-beta+1.21.10.jar"
 hash = "7e7028276b6128aa7cdc952440ff060bf2c2dd4ab4bbaffa8c5ca4ab771b52a0"
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "9fb6298b75abc16f41cc6057de892c27acacdafeafae7f8ac46c1e8f222ade40"
+metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
@@ -1217,6 +1227,11 @@ hash = "45abf05e1cc90006aeb65e4e1bbe97da5a1984f547ea8028a077dae68af0ac11"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "408151861cc1b1a4c4e9c8a3550662a2fc36d0ea96ee07b7e96c5d2a6afacf6f"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight-polymer.pw.toml"
 hash = "18fafd3ccb1684b03256da0625a6eb9297d92d232275f72ba83ee60cc9fe05dc"
 metafile = true
@@ -1234,6 +1249,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "816b735b2ad505476201800a99f527e61b392b712b9d20ca9edcce05f412fe87"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "b22f1d052eee2810fda73d850dd6f425a1214965e03a5a9dada421abfe74603b"
 metafile = true
 
 [[files]]
@@ -1372,6 +1392,11 @@ hash = "7f26c8df78d02b1d63a723a3a45b838415126da5296ac67b0414e564da30a421"
 metafile = true
 
 [[files]]
+file = "mods/mini-vfx.pw.toml"
+hash = "0476cd02f255d49db02940c28fee2c5a9b1d933bab7857805279aa4cc8f894ad"
+metafile = true
+
+[[files]]
 file = "mods/mns-moogs-nether-structures.pw.toml"
 hash = "e3b2dc615d6e4dcc82d7784969a737b8d374d803fe9652682ae9a48c87e2ae10"
 metafile = true
@@ -1459,6 +1484,11 @@ metafile = true
 [[files]]
 file = "mods/personal-treasure-loot.pw.toml"
 hash = "34de3b3ce3c15c1912b0e504cae581cbffa5967f70c037cf3f14cc7b3332c02f"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "ab6def9d98d3f5bf12f78845bdb770a19d5ca590c571e60184e537ffa14dcbee"
 metafile = true
 
 [[files]]
@@ -1642,6 +1672,11 @@ metafile = true
 [[files]]
 file = "mods/tag-translations-for-jei.pw.toml"
 hash = "8676fae815e7c87cd7c5d0bd26c3baf673a2dc28b632eba0b1f43a11c198a90a"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "a11751cee1923f2e1ee313671b5bea0259dda32d5d20cd65b573f87b338577ed"
 metafile = true
 
 [[files]]
