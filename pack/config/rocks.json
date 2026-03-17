@@ -1,9 +1,9 @@
 {
   "rock": true,
   "rockMix": true,
-  "graniteRock": true,
-  "dioriteRock": true,
-  "andesiteRock": true,
+  "graniteRock": false,
+  "dioriteRock": false,
+  "andesiteRock": false,
   "sandRock": true,
   "redSandRock": true,
   "gravelRock": true,
