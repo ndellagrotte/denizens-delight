@@ -1221,6 +1221,11 @@ file = "mods/defaulted-fabric-1.21.9-1.2.1.jar"
 hash = "2e7aa3504b96e2076a4f6400aba149f0a514cc476198af40824f7e8ad555d350"
 
 [[files]]
+file = "mods/dimensionfixer.pw.toml"
+hash = "a82f6fffb202984f435a4e7158df4c1f728d8aed3f8a3e30a9348ed35caa89e3"
+metafile = true
+
+[[files]]
 file = "mods/dungeons+-1.11.1.jar"
 hash = "2523115fb08e5c9221e077bc100b8a99e2adc63818740c359ca8b1f670fe9010"
 
@@ -1383,6 +1388,11 @@ hash = "8b8e0ee506949243e77e4417e2e7e0905107a39f10e1f44cafe3ec17ae333aa8"
 [[files]]
 file = "mods/mini-vfx-1.0.4+1.21.11.jar"
 hash = "a18ba7f194d82afd9df44ca26707f0a594099bae04c08606be4b8fa1a4820c89"
+
+[[files]]
+file = "mods/moderner-beta.pw.toml"
+hash = "f112d461fdbcdd1c69be89f7e0f0bd3658778fcd48135f045aeae16812efac2f"
+metafile = true
 
 [[files]]
 file = "mods/moogs-voyager-structures.pw.toml"
@@ -1633,6 +1643,11 @@ hash = "33b5a8e8d56a8746c2e85baa4bc67f6a16fc789396c797f4318beb430bc503a8"
 [[files]]
 file = "mods/villagerconfig-fabric-4.5.2+1.21.11.jar"
 hash = "a74c790a71999748bf6fea6114e500c2c09bde581b56990aea55b6b1072899a6"
+
+[[files]]
+file = "mods/worldportal.pw.toml"
+hash = "3fdea10b107514d40b0f8380225de61cb105a84c8fd036679bfbb63cb2ccd444"
+metafile = true
 
 [[files]]
 file = "mods/yet_another_config_lib_v3-3.8.2+1.21.11-fabric.jar"

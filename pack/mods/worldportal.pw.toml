@@ -1,0 +1,13 @@
+name = "World Portal"
+filename = "worldportal-fabric-0.0.10+1.21.11.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/A2PZGios/versions/94KDAJnU/worldportal-fabric-0.0.10%2B1.21.11.jar"
+hash-format = "sha512"
+hash = "acedf6851ed7109dfd7ec4e670cd654043d4f5dd179e0ebf819e2fd64868208af6cf50224aeda92a96cf90dc0dfbc0df975f397df3f6cf43ec55dfd03ae7db1f"
+
+[update]
+[update.modrinth]
+mod-id = "A2PZGios"
+version = "94KDAJnU"

@@ -1,0 +1,13 @@
+name = "Dimension Fixer"
+filename = "dimensionfixer-fabric-0.0.10+1.21.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hJmXo78w/versions/c6RgD6uj/dimensionfixer-fabric-0.0.10%2B1.21.11.jar"
+hash-format = "sha512"
+hash = "c60bb8b5612e23bfb2b58313f66c8a4f91d7f7339340b5762ba83f94eb7b5c714d4943eadfdddf07d896049b596b259a7f13ed5427004ade6ec23095a1f2af79"
+
+[update]
+[update.modrinth]
+mod-id = "hJmXo78w"
+version = "c6RgD6uj"
