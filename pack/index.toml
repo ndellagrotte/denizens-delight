@@ -1565,6 +1565,11 @@ hash = "fed1c58a0d00bf528e390d599ddf03b9721d35135d862ab6ac156e7545c9fc4e"
 metafile = true
 
 [[files]]
+file = "mods/simple-resource-loader.pw.toml"
+hash = "072d663edf6434788b126994b7901a654efb279c4b7f503bcad4938d6d6396a5"
+metafile = true
+
+[[files]]
 file = "mods/simple-update-checker.pw.toml"
 hash = "d58bc721a42323b47c4e860ed12a8bfd66345a6f59c3ed935889fe2255676326"
 metafile = true
