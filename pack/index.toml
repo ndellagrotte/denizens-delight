@@ -1134,6 +1134,10 @@ file = "mods/beekeeperhut-fabric-3.0.2+mc1.21.11.jar"
 hash = "4d9d5672d9695782f7544a08fe6e460272f0af0f42ccd402d34c15117fadf435"
 
 [[files]]
+file = "mods/beta173dimension-fabric-0.0.2+1.21.jar"
+hash = "2d478bd088cbad5a980f6cef15ce584919a978a59b8ef1ac471ea1c62e8ac99f"
+
+[[files]]
 file = "mods/better-respawn-fabric-1.21.11-2.0.6.jar"
 hash = "d2a7cc8973dcfc6a5def70cf0f42bcfc0c9642b614f0ba1fd61808098bba634a"
 
@@ -1243,9 +1247,8 @@ hash = "f58d78ea67afa3f1a7e24608e22b59edbb0011e22d806430ae9fe743f9b0347a"
 metafile = true
 
 [[files]]
-file = "mods/extended-drawers-polymer.pw.toml"
-hash = "bec5829fa54e5f3d1e3b59ec024802e3163b5ad18d9ed6ddcb6b9d7b96af4198"
-metafile = true
+file = "mods/extended-drawers-polymer-patch-4.3.0-beta.3.0+1.21.11.jar"
+hash = "f73ceb949cbd146409e618b0242f103ae752b7a04d62ddcaa97b689751ea87b3"
 
 [[files]]
 file = "mods/extended-drawers.pw.toml"
@@ -1580,6 +1583,10 @@ hash = "1000d14ba1952db4ed395b781a0892ae90c3103849e8e42229279f6c08eeaeba"
 [[files]]
 file = "mods/styledplayerlist-3.10.0+1.21.11.jar"
 hash = "e9716f3cff294b25c39e09bdc894e2ffde9778a427900cdebafde30fcba25f16"
+
+[[files]]
+file = "mods/swingthroughgrass-fabric-1.21.11-1.0.0-1.21.11.jar"
+hash = "a1a5d3b2c930f45e30212d86a3d88312ead9e9346ae0b4741a1b0b6676247585"
 
 [[files]]
 file = "mods/tagtranslations-fabric-1.21.5-to-1.21.11.jar"
