@@ -1645,9 +1645,8 @@ file = "mods/villagerconfig-fabric-4.5.2+1.21.11.jar"
 hash = "a74c790a71999748bf6fea6114e500c2c09bde581b56990aea55b6b1072899a6"
 
 [[files]]
-file = "mods/worldportal.pw.toml"
-hash = "3fdea10b107514d40b0f8380225de61cb105a84c8fd036679bfbb63cb2ccd444"
-metafile = true
+file = "mods/worldportal-fabric-0.0.10+1.21.11.jar"
+hash = "453274464bd32c04c3fdf8614f8ab91a4c5fe4a389172f95134652cfed6c9308"
 
 [[files]]
 file = "mods/yet_another_config_lib_v3-3.8.2+1.21.11-fabric.jar"
