@@ -1133,10 +1133,6 @@ file = "mods/WoodsAndMires-2.1.2-geophilic-compat+1.21.11.jar"
 hash = "0e1ed97375a1fdd54be51db7a163d9b958ec28fac939edfa18b7308994b576d7"
 
 [[files]]
-file = "mods/[fabric]ctov-1.21.11-3.6.2a.jar"
-hash = "4544cef0afe8c1e1fd4df2667e27c9dd6418ee6aa474d472608e010d423f1dae"
-
-[[files]]
 file = "mods/alternate-current-mc1.21.11-1.9.0.jar"
 hash = "29d9ac854ca53910029916553b8aef926fbea525ef78a7636ce81c970833a1e4"
 
@@ -1239,6 +1235,11 @@ hash = "f79aa00b159be2ca65421557872939d1aa3532f4f91066fa38b8ab9c0265d2ef"
 [[files]]
 file = "mods/cristellib-fabric-1.21.11-3.0.4.jar"
 hash = "9cbd89926b42d18e67e03b031dd8adb6d94177cd2c515053177e27c56e3b2e98"
+
+[[files]]
+file = "mods/ct-overhaul-village.pw.toml"
+hash = "b6008fb724839be07d61bc4ca3144443e719e397c2e4e3657dd9c975875f8b5f"
+metafile = true
 
 [[files]]
 file = "mods/curiosities-1.1.1+1.21.11.jar"
@@ -1499,8 +1500,9 @@ file = "mods/rail-placement-fix-1.1.0.jar"
 hash = "9afcf7ef8a3df7b4fb60ad2923f330658c58355769f51f4fae31a0e5f57cec83"
 
 [[files]]
-file = "mods/repurposed_structures-7.6.1+1.21.11-fabric.jar"
-hash = "8e5995a71f755478db510c74952b6513d114efb804c20c6e56765e6b824cb34f"
+file = "mods/repurposed-structures-fabric.pw.toml"
+hash = "523db842cb903af0a9f2d0f84a1c84c5b61f13021ac3efc5c8631e102750bb6c"
+metafile = true
 
 [[files]]
 file = "mods/rocks-1.9.4+1.21.11.jar"
@@ -1587,8 +1589,9 @@ file = "mods/tagtranslations-fabric-1.21.5-to-1.21.11.jar"
 hash = "1fcef2008b5e0ed0fd76246612c1bd2a91a0169564efe5dfb6abec00214fa97e"
 
 [[files]]
-file = "mods/terrestria-7.6.0-beta.2.jar"
-hash = "7b1f63a68859488069d1ccec75b41c170ffc55481e5e2fdcddc7d407178e5d98"
+file = "mods/terrestria.pw.toml"
+hash = "f7967d66c13c4390f7562014f4bdffa6c0c7f6d34a1aa249b1e0f51e08382cc5"
+metafile = true
 
 [[files]]
 file = "mods/timeoutout-1.0.5+1.21.11+HOTFIX.jar"
