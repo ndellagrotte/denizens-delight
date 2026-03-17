@@ -770,7 +770,7 @@ hash = "14e4fe1ded11fa49bfc3479a8e7efdda0e5bc7333d6c9723b44c87306619d8ab"
 
 [[files]]
 file = "config/rocks.json"
-hash = "340ae66474b261dcc5169e80c939eaf3790caad13615fcd5b05c2d3b01e6d94e"
+hash = "408f9561d07fd672fec121c478a53ba5995d9646a10641bdf3c3804aec58a18e"
 
 [[files]]
 file = "config/roguelike-dungeons.json"
@@ -1209,6 +1209,11 @@ hash = "b6008fb724839be07d61bc4ca3144443e719e397c2e4e3657dd9c975875f8b5f"
 metafile = true
 
 [[files]]
+file = "mods/cultural-delights-polymerized.pw.toml"
+hash = "f8386c504eae2fbc428841837e091e542ec908287b66c26d31f2e072d72bd236"
+metafile = true
+
+[[files]]
 file = "mods/curiosities-1.1.1+1.21.11.jar"
 hash = "ee138471173170b88ff539fb3a27d5dfef3c186ec6c3d1c6557a26aec5e2d9fb"
 
@@ -1306,6 +1311,15 @@ hash = "3649709fe2a30fa1f3b10a5fd716c3c48cc30f1363bc88bb98ce007c682a3ec0"
 file = "mods/friends-and-foes.pw.toml"
 hash = "6f72454cfe1c3d55379784017f62575c56ea8cdd6fe815f9a70c10fa2902743f"
 metafile = true
+
+[[files]]
+file = "mods/frights-delight.pw.toml"
+hash = "f4efe2eb66b0092fbf0dc4ef0088db833141e13305338ac6af1baa19b7c06d60"
+metafile = true
+
+[[files]]
+file = "mods/frightsdelight-patch-1.4.1+1.21.8.jar"
+hash = "629698320b996f6eae20365ee4fb992d93f00ff7f583f9bb9a973c8fe3aa245e"
 
 [[files]]
 file = "mods/fsit-2.9.1+mc1.21.11.jar"
@@ -1452,6 +1466,11 @@ file = "mods/no-telemetry-1.10.0.jar"
 hash = "8e9086fefd2ef7d65d31946a91b9414a23cd1b777bbab08855039b130f0b8b2c"
 
 [[files]]
+file = "mods/oceans-delight-polymer-port.pw.toml"
+hash = "69130979f293873c350b771eea2655fa60e744d563ba77c2b3dc85ba07c8f9d0"
+metafile = true
+
+[[files]]
 file = "mods/open-sesame-1.0.5+1.21.11.jar"
 hash = "16f5a9bb21ef9230b4dc62fa4c0fbf41b02f714b83ad822c905c17c7fe91d09a"
 
@@ -1588,6 +1607,15 @@ file = "mods/starterkit-1.21.11-7.6.jar"
 hash = "5ba55964b91fd6b0a74f6c0892d9f2a33ecd3ea1637e498a1682098c427c101f"
 
 [[files]]
+file = "mods/storage-delight.pw.toml"
+hash = "ef331a2fd5c656297f61d13ddd2e1800c0ffe8cb38b4e65fdc1ecc214ec87e85"
+metafile = true
+
+[[files]]
+file = "mods/storagedelight-patch-25.12.09-1.21.10.jar"
+hash = "298601ca01a11533652a4fea33d3a87fc0fb589a9c1a5bcc4ac24270de1dd2eb"
+
+[[files]]
 file = "mods/strayspawn-1.21.11-3.7.jar"
 hash = "ba17570c9dde6d3f9d665928efe7a9270615bc6635e83cdc160253dd77a31aff"
 
@@ -1602,6 +1630,10 @@ hash = "e9716f3cff294b25c39e09bdc894e2ffde9778a427900cdebafde30fcba25f16"
 [[files]]
 file = "mods/swingthroughgrass-fabric-1.21.11-1.0.0-1.21.11.jar"
 hash = "a1a5d3b2c930f45e30212d86a3d88312ead9e9346ae0b4741a1b0b6676247585"
+
+[[files]]
+file = "mods/sylcurity-1.0.2.jar"
+hash = "fd596432fde66292742963236a973a4e8da4500cb42b7dbe5c47f80ce70ab1cd"
 
 [[files]]
 file = "mods/tagtranslations-fabric-1.21.5-to-1.21.11.jar"
@@ -7388,6 +7420,10 @@ hash = "4622a2e4b1abd704483b29fc19545017e494bce7face706f38fc2d80a0436f3e"
 [[files]]
 file = "polymer/override_assets/assets/traverse/models/block/yellow_autumnal_leaves.json"
 hash = "f1875a54a116f25f699a35c144b75e125aef4f870774c87e9b4f907b55d2e639"
+
+[[files]]
+file = "resources/common/required/BlazeandCave's Advancements Pack 1.20.2.zip"
+hash = "41fba27c6c384afa402848e6ffb1b788842c81749a98e3bc60828488cdc95ca7"
 
 [[files]]
 file = "resources/common/required/DarkPaintings.zip"
