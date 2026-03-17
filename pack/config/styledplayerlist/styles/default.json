@@ -4,7 +4,7 @@
   "list_header": [
     "",
     "",
-    "<shadow value:#0><font 'denizen:icons'>0</></> <font 'unsanded:default'><gr #f7e1a7 #f39240><shadow scale:0.4>untitledDenizenProject</></>!</>",
+    "<shadow value:#0><font 'denizen:icons'>0</></> <font 'unsanded:default'><gr #f7e1a7 #f39240><shadow scale:0.4>Denizen's Delight</></>!</>",
     "<gray><font 'unsanded:default'>{ %simpleupdatechecker:version% }",
     "",
     "<#555555> <strikethrough>          </strikethrough>[ </><#FF5555>%server:online%<#666666>/</>%server:max_players%</><#555555> ]<strikethrough>          </strikethrough> </>",
