@@ -802,7 +802,7 @@ hash = "f6a4950e02e2e2aac4525c924b22500282fc27996d4385de466ab34ff8d6dcd6"
 
 [[files]]
 file = "config/simpleupdatechecker_modpack.json"
-hash = "e15b0ef5b7a10facfbc0f74f7332c455d82e97a8eee8863cb7b27a0f1411c2fd"
+hash = "0e03c607c6040d7ecc922e4b7bbae93d3d1dbb4f94c99b416f26e078895c49dc"
 
 [[files]]
 file = "config/simpleupdatechecker_user.json"
