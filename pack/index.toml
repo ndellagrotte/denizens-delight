@@ -914,7 +914,7 @@ hash = "ca1b5f75f2dd3bc6e1136adb99f61c2468bb70b5739f873a72b3351da9aa678f"
 
 [[files]]
 file = "config/styledplayerlist/styles/default.json"
-hash = "cd5e07098b017569a6fa7d68b5e35867f2d72eda657dbeb8eff6de54ffb12076"
+hash = "05b0f98e32f9e36ea6480e946a14ad168d6a8038744ac0ad92482487a2e4ce47"
 
 [[files]]
 file = "config/terrablender.toml"
@@ -1111,10 +1111,6 @@ hash = "898b87e54bd9353a6db693be398a9c96fc8b4ac5342f7b67124a9aac915e9512"
 [[files]]
 file = "mods/ResourcefulLib-fabric-1.21.11-3.11.0.jar"
 hash = "7d3d4a78b567b99925762db1face1d7daec6e59a9c8be27da0bade67c02fd1a2"
-
-[[files]]
-file = "mods/SkeletonAIFix-v21.11.0-mc1.21.11-Fabric.jar"
-hash = "712e62210254465c411fd45f236a1c3b59fb155a1e94c53582d381c5e51ed01b"
 
 [[files]]
 file = "mods/Structory_1.21.x_v1.3.14.jar"
