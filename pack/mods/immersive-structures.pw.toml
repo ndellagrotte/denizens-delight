@@ -1,0 +1,13 @@
+name = "Immersive structures"
+filename = "[fabric]imst-2.2.1c.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CVBAErky/versions/SsrTPqXX/%5Bfabric%5Dimst-2.2.1c.jar"
+hash-format = "sha512"
+hash = "3fa7558268b744cdfe44b8f79df456916ce316afe0a8560c345f53fd1dbd07a7dbd9527efbd50cf4b6dd07ac91b31e9763cd6d3aef4a45157e1f86cf32a91e58"
+
+[update]
+[update.modrinth]
+mod-id = "CVBAErky"
+version = "SsrTPqXX"

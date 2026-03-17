@@ -1341,6 +1341,11 @@ file = "mods/illager_expansion-1.9.0+1.21.11.jar"
 hash = "8efbabbd1da2087c08c8ec4109a664e8e7984ce7d44a8a5f22e7998c1eed2c1c"
 
 [[files]]
+file = "mods/immersive-structures.pw.toml"
+hash = "ce2375063605b5cbdcc9e4220594dcdc6c3b99bad0ea372268e54ae1a24dddcb"
+metafile = true
+
+[[files]]
 file = "mods/incendium.pw.toml"
 hash = "6481ca52a9af58816965376864f63a1653ea341916d1aeb94b35ef6800ff2195"
 metafile = true
