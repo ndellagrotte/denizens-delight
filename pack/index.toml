@@ -1146,8 +1146,9 @@ file = "mods/blahaj-fabric-polymerized-3.1.0+1.21.5.jar"
 hash = "c2b68b553ad00dd04d466c6df3349592b449ae69bd1633fe6177104d6f30874f"
 
 [[files]]
-file = "mods/blast-1.13.5-1.21.11.jar"
-hash = "0510a8997339c67196ffc757abe6d99b00e1ae432bdb9350623b03ddb25343a7"
+file = "mods/blast.pw.toml"
+hash = "f408a9ff810600f7a625802959492b2e28426859a412dcbda9217a6fb15e0e4a"
+metafile = true
 
 [[files]]
 file = "mods/boggedspawn-1.21.11-1.1.jar"
