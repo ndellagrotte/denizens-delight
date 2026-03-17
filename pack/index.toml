@@ -6,7 +6,7 @@ hash = "617064f434f5c3100fd16a095d60a5771eba580d89716033646d281088ce5bb0"
 
 [[files]]
 file = "config/ArcanaNovum.properties"
-hash = "13444a65ccdd373f01066b17d06f91beaf751e7239ee2612bb9eb84f505dea39"
+hash = "9a3a0cfcb75762c71e384333fd57f029e70d8eaed51fda7b2659bce6ae41ed40"
 
 [[files]]
 file = "config/NoChatReports/NCR-Client.json"
@@ -46,7 +46,7 @@ hash = "d504a8f3a482b6c0dd3dbc5ce93e25d0f1f0728fc03f359c2c2e4733ab782c59"
 
 [[files]]
 file = "config/better_respawn/better_respawn.properties"
-hash = "504dbd8f44fbfb96bd4da4c071ade386e90fd83a56aca0a3b070a0750fab3e6a"
+hash = "0a38277ad6a47ab8dd3034fc25d6fbf7b8cebb42e0b3ee4f19fed979460e24b2"
 
 [[files]]
 file = "config/bettermodel/.cache/1.21.11.jar"
@@ -345,6 +345,10 @@ file = "config/cardinal-components-api.properties"
 hash = "8d3ae8c9240fc60475fbb98a87b7e2e0874703b173a449fb346fb0857ada7bba"
 
 [[files]]
+file = "config/caveoverhaul.cfg"
+hash = "16448e120a2659553739992399a28e50eae73bd11970b45b511fe2d78c78fd2d"
+
+[[files]]
 file = "config/cc-tweaked-polymer-patch.json"
 hash = "70447f8632c8737dd0025c2dbb29c977c3495859e4c775386e47fe4ea2b2ebb8"
 
@@ -590,7 +594,7 @@ hash = "4658c3e38bd5260ad35a037ba7f5d3846044357cbf4ad70cfbe457ec9712e42c"
 
 [[files]]
 file = "config/ctov.json"
-hash = "e21a989b0de21fce76a0dda063a195224c38f69083ddd962d3f7166c79c2f069"
+hash = "d601a821cd900e249fac9663d554827eff25c2cf6aab98339e75103c2a0a5061"
 
 [[files]]
 file = "config/cts_crit_impl.js"
@@ -638,15 +642,19 @@ hash = "092f8c29303ff57976912813c7816088379b22c97065b579bf7a2da59a08e1bb"
 
 [[files]]
 file = "config/ferritecore.mixin.properties"
-hash = "bdd54ad580fc678a117e4f559daaed5ebbe0dde176127ddb95dd2d5e5b4e4818"
+hash = "fddb9f45485b7ae24191e3d94aa6e94a31016a8d4938d970d7f9877c79235732"
 
 [[files]]
 file = "config/forgeconfigapiport.toml"
-hash = "40dbe5b348f89b8ded62bcdfe32807ffc3e78fa8e0f81607a739580019fe5450"
+hash = "647ad92f7bdc5e0ccef37d6e7386b08f2a19715b77742202f2f9048fb14e0dec"
 
 [[files]]
 file = "config/friendsandfoes.json"
-hash = "6ed2cccfd68e5242c4edf07eb036cc64c31fddfce68173523b840412ec751fb4"
+hash = "ff448dd14ed4d81a6b518c3b38e2b9c29c76f00f77e0eea016415a25fc77bf2e"
+
+[[files]]
+file = "config/fsit.yml"
+hash = "4d300820f01674f8873182291484cd5a25d8fb9287da327a9374dfb9741ba3b1"
 
 [[files]]
 file = "config/highspeed-rail.json5"
@@ -695,6 +703,10 @@ hash = "16d20c40cc6c114faff5493b561873fe160a65047720bc19fb3a3dd64aa67f3b"
 [[files]]
 file = "config/morefurnaces.conf"
 hash = "0e9a84a329ee9d89218636e94e1b415d993ace76b7852c9cd98ef28c5f0e12f3"
+
+[[files]]
+file = "config/moretools.json"
+hash = "6ca9c96de26279734100925b52846129d4faf2c4b1e0ba4490c6c6a08a93937f"
 
 [[files]]
 file = "config/naturally_trimmed.json5"
@@ -790,7 +802,7 @@ hash = "18c7a992a93f552e4fdf59f54f4e62f63fe47f1a44f209b7a8ab2f41f5bcb772"
 
 [[files]]
 file = "config/serverbackpacks/serverbackpacks.json"
-hash = "d7aca2f023e4764d6015f781f2e8cb82dd7a41b861af152d5e367b7f69e50b69"
+hash = "c965ffe5c3088d79f900c45fcfc4a86e272643cbaebbc4966b662baa609e787b"
 
 [[files]]
 file = "config/servercore/config.yml"
@@ -807,6 +819,10 @@ hash = "e15b0ef5b7a10facfbc0f74f7332c455d82e97a8eee8863cb7b27a0f1411c2fd"
 [[files]]
 file = "config/simpleupdatechecker_user.json"
 hash = "cfdcec22661b6d4d478701b8ec631eeee13b7688f68ba7da635f1b176c4e7abe"
+
+[[files]]
+file = "config/skeletonaifix-server.toml"
+hash = "bd680afac448c266db2d2b8407e0edac8fdaac99dfb62fef575ca0c9631cbad5"
 
 [[files]]
 file = "config/skeletonhorsespawn.json5"
@@ -854,7 +870,7 @@ hash = "8057ccf4540ea269b0fc332225859f44d8f3a55d891fa2e7a3447b6202658d2a"
 
 [[files]]
 file = "config/spark/tmp/about.txt"
-hash = "d7514c0ddb6ae8611a281527bf04ca6cbcea1fa21758534fdcd08ed0f51c19c0"
+hash = "8057ccf4540ea269b0fc332225859f44d8f3a55d891fa2e7a3447b6202658d2a"
 
 [[files]]
 file = "config/spidersproducewebs.json5"
@@ -918,7 +934,7 @@ hash = "cd5e07098b017569a6fa7d68b5e35867f2d72eda657dbeb8eff6de54ffb12076"
 
 [[files]]
 file = "config/terrablender.toml"
-hash = "cff6a9a0d415b19b9852844c0ad5bb2b1cfdb9fce12e729e7228a6521fc95927"
+hash = "499d188162ddcf7fcf450cdcdc96bd41ac582501ecad5ed4a74dd9ed6b01990a"
 
 [[files]]
 file = "config/terrestria/biome.json"
@@ -1255,6 +1271,11 @@ hash = "2523115fb08e5c9221e077bc100b8a99e2adc63818740c359ca8b1f670fe9010"
 [[files]]
 file = "mods/dungeons-and-taverns-v5.1.0.jar"
 hash = "8dc6be9b0ea195760197cbba66a0b770c6e9914e7534485dcab2e034e85f451c"
+
+[[files]]
+file = "mods/dungeons-and-taverns.pw.toml"
+hash = "8be1928de42bd2fc1a20a6735d36358145d8b1304649679854d9cb2021010e8d"
+metafile = true
 
 [[files]]
 file = "mods/dynamiclights-v1.9.1-mc1.17-1.21.11-mod.jar"
@@ -1602,6 +1623,11 @@ file = "mods/trek-B0.6.jar"
 hash = "78c27ae931278eca9e2fd86e73b08f44ff5962cac4d1a3f701a26c257d6e32ef"
 
 [[files]]
+file = "mods/trek.pw.toml"
+hash = "4e3c4349f625e72a634cb50d482a7e12e835676e4d90c3ea281d843a160869db"
+metafile = true
+
+[[files]]
 file = "mods/trinkets-3.11.0-beta.1+polymerport.4.jar"
 hash = "b1fcfb6c8299f0bc66cc1cda510f251993a0411acf5a2f11a989b3b8ade1552f"
 
@@ -1620,6 +1646,14 @@ hash = "49c279bc28c80ca17d6c21c3dd299ec1c115b892272f21b3f034ed782829babd"
 [[files]]
 file = "mods/zombiehorsespawn-1.21.11-5.2.jar"
 hash = "d406dbaea10a4e56ab533000f9ca131abe97a241bdf70e532d8d546e4539e5d7"
+
+[[files]]
+file = "polymer/cached_client_jars/123370fbb15bf1e85cf5038b3e8ca719ad391dfb_sounds.json"
+hash = "9b8f59049a7b3a77e36696f49a72fe6ed690b5ce322898b68a4dcb15e424ad38"
+
+[[files]]
+file = "polymer/cached_client_jars/70ab73433d42e46d3838462e724cdb3c0116b0c4.jar"
+hash = "8c79da8c4789abfe94bb72660d7f8ad0ddecc1974e3d5ff6565365042e7bb075"
 
 [[files]]
 file = "polymer/extra/Banner_TextRP-v1.4.0.zip"
@@ -7362,17 +7396,20 @@ file = "polymer/override_assets/assets/traverse/models/block/yellow_autumnal_lea
 hash = "f1875a54a116f25f699a35c144b75e125aef4f870774c87e9b4f907b55d2e639"
 
 [[files]]
+file = "polymer/resource_pack.zip"
+hash = "0bbb16cc12f9bd95070dced4a6d0a11229375f99801dca65305383b0f9fa8fd3"
+
+[[files]]
 file = "resources/common/required/DarkPaintings.zip"
 hash = "5058444b320fc196d70b761e6842b8560df4b7b43573f08aa8a93ea6e5352d27"
 
 [[files]]
-file = "resources/common/required/polymania.zip"
-hash = "b416039ec779ddcb44b0e1e762cf794d3b3af457424f4320a55305e9aacfeb4a"
+file = "resources/common/required/patbox-translations-2025-04-10.zip"
+hash = "fc41ae5d430b57ed564dfd33cc3b1d5062532c2d4288a3ede20b3a61ba8c6606"
 
 [[files]]
-file = "resources/common/required/translations-for-patboxs-mods.pw.toml"
-hash = "d6c84505b329e5f515b2475097fffe7579b9d9d1767a4bc65f07df67839ef779"
-metafile = true
+file = "resources/common/required/polymania.zip"
+hash = "b416039ec779ddcb44b0e1e762cf794d3b3af457424f4320a55305e9aacfeb4a"
 
 [[files]]
 file = "server-icon.png"
