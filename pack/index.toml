@@ -1167,9 +1167,8 @@ file = "mods/caveoverhaul-1.4.2.1.jar"
 hash = "a4fcf69798487d386a0de55afaea55158b672f5e95c74864dd5b0f83e9c6432a"
 
 [[files]]
-file = "mods/cc-polymer.pw.toml"
-hash = "8cd3db5d24ff98e157224dc0b49970e926b4c69cd47315b8c4d308875ed5ac5d"
-metafile = true
+file = "mods/cc-tweaked-polymer-patch-1.117.1.0+1.21.11.jar"
+hash = "f607866df33793bdd1c3d0c1d0091da4d87341e84c147b8aa035cb47b4df88e0"
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
@@ -1468,9 +1467,8 @@ hash = "91bb88e4c452392472ebe87d59ec99418263a0d9426a5dfa23ac472dbc6af664"
 metafile = true
 
 [[files]]
-file = "mods/polyblast.pw.toml"
-hash = "2f9bf49b18b295f564601e1210fec4464b77d59a104a5d2b872cfb92038aa38d"
-metafile = true
+file = "mods/polyblast-1.0.1.jar"
+hash = "6162300a70c6ff682dd9f1446c4d9ddebc2b8b716d4f4177c337b34b2595e6eb"
 
 [[files]]
 file = "mods/polychess-0.1.3+1.21.11.jar"
