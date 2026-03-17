@@ -1,0 +1,15 @@
+name = "TimeOutOut"
+filename = "timeoutout-1.0.5+1.21.11.jar"
+side = "both"
+
+[download]
+url = "https://github.com/ndellagrotte/TimeOutOut/releases/download/v1.0.5/timeoutout-1.0.5%2B1.21.11.jar"
+hash-format = "sha256"
+hash = "d1bafd9e81bb59ef09d772e9c28cd068aaef353a91de22d51fed27a3780c6ad7"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "ndellagrotte/TimeOutOut"
+tag = "v1.0.5"

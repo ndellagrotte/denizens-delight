@@ -1077,10 +1077,6 @@ file = "mods/MoogsEndStructures-1.21-2.0.1.jar"
 hash = "3c6818cb4ca78d783f16b013b1f80c41cc6899ecc4091365fdd3926583c6202a"
 
 [[files]]
-file = "mods/MoogsMissingVillages-1.21-2.0.0.jar"
-hash = "33de63032c126268cbf8b3b1c8de09a9974d30da5aa7f158ac4bd346c06e9c4a"
-
-[[files]]
 file = "mods/MoogsNetherStructures-1.21-2.0.31.jar"
 hash = "72c2daafe897d680a8c1433d6e73bf6d3f39d96b7d15fdcb90de52d06c5936a4"
 
@@ -1425,8 +1421,9 @@ file = "mods/netherportalfix-fabric-1.21.11-21.11.2.jar"
 hash = "676eeec43c5b3bdfea1123c70ebe195daea60ceb7f15297f159665359bb0a36b"
 
 [[files]]
-file = "mods/no-enchantment-trades-1.0.1(1).jar"
-hash = "19504147067f98982241d31268126663ded590fcc0f63a49307f7c2e4eda0119"
+file = "mods/no-enchantment-trades.pw.toml"
+hash = "7e7154c8f95c65858ee020b5abe0964af5cfc526a328913e476516d154d64e71"
+metafile = true
 
 [[files]]
 file = "mods/no-telemetry-1.10.0.jar"
@@ -1461,8 +1458,9 @@ file = "mods/plushables-polymerized-1.0.0+1.21.9.jar"
 hash = "8467eafbdfb52e7ac7fbf0e2fe999b5cb78e694bc6bec14b31cfc3b5bc9bb8b8"
 
 [[files]]
-file = "mods/pocket_dimension-1.21.10.1.1.jar"
-hash = "37a2637b82f17d75b350b50a5233859191a51caa9658314c953bfd9d40912cc2"
+file = "mods/pocket-dimension.pw.toml"
+hash = "91bb88e4c452392472ebe87d59ec99418263a0d9426a5dfa23ac472dbc6af664"
+metafile = true
 
 [[files]]
 file = "mods/polyblast-1.0.1.jar"
@@ -1592,8 +1590,9 @@ hash = "f7967d66c13c4390f7562014f4bdffa6c0c7f6d34a1aa249b1e0f51e08382cc5"
 metafile = true
 
 [[files]]
-file = "mods/timeoutout-1.0.5+1.21.11+HOTFIX.jar"
-hash = "70bf780a69682e0aada56e8ae70f2915e338bf57dd6e8860a900dbfc616e72a3"
+file = "mods/timeoutout.pw.toml"
+hash = "147c0bc20c2420f6a1f01739b19814f4c633619489008a6284309632e9cca283"
+metafile = true
 
 [[files]]
 file = "mods/toms_mobs-3.0.2+1.21.11.jar"
