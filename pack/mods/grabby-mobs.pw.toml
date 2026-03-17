@@ -1,0 +1,13 @@
+name = "Grabby Mobs"
+filename = "grabbymobs-1.21.11-1.7.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/O6Sh7btX/versions/8JigPexx/grabbymobs-1.21.11-1.7.jar"
+hash-format = "sha512"
+hash = "8c58f9a051899f11fa7bf49cdf0dc764169b39faa9fdcc2fcb73b5724b365ed894cebf97902fcad466a593e5a23f1e3a8eabb25d894660bbaa07af360101a13b"
+
+[update]
+[update.modrinth]
+mod-id = "O6Sh7btX"
+version = "8JigPexx"

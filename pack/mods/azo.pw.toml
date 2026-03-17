@@ -1,0 +1,13 @@
+name = "Adult Zombies Only"
+filename = "azo-0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PZAn36Eb/versions/hJ6OYoSc/azo-0.1.jar"
+hash-format = "sha512"
+hash = "472f32529519fa099c7f748746d575d6e041e92e83bbcc389f3edf00aae094e7b679a3786bc21cb716180255380dc85b005742c3c036cf6307e9fff302880e95"
+
+[update]
+[update.modrinth]
+mod-id = "PZAn36Eb"
+version = "hJ6OYoSc"

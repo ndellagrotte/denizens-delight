@@ -1,0 +1,13 @@
+name = "Personal Treasure Loot"
+filename = "personal-loot-1.0.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/XeKBLpXh/versions/fyBLiZGN/personal-loot-1.0.2.jar"
+hash-format = "sha512"
+hash = "c3123335b0417dc346895215e7ca7535ff52afdf3bb8b8a21fb4506cf441cfb47d3a81fb8539f851bb01f89202b685750b2e24cd5e2cb12a072bbcb4c1160dfc"
+
+[update]
+[update.modrinth]
+mod-id = "XeKBLpXh"
+version = "fyBLiZGN"

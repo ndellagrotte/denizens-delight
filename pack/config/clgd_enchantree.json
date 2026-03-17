@@ -1,0 +1,5 @@
+{
+  "requireEnchantedBooks": false,
+  "maxBookshelves": 18,
+  "scaleBookshelfCost": true
+}

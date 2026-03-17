@@ -1,0 +1,13 @@
+name = "Arcana Novum"
+filename = "arcananovum-3.1.17+1.21.11.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/9J7sCd3t/versions/GsCja4nK/arcananovum-3.1.17%2B1.21.11.jar"
+hash-format = "sha512"
+hash = "0a041c4b5dfbc471e173a9b476ad177a88251dcbca1146e7a84f1fd045f5b36f9d88981b24cfa70bd8d58437e8824fe9942a286f1b6c4cba807cc16b7e369cdf"
+
+[update]
+[update.modrinth]
+mod-id = "9J7sCd3t"
+version = "GsCja4nK"

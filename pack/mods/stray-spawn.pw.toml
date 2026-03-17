@@ -1,0 +1,13 @@
+name = "Stray Spawn"
+filename = "strayspawn-1.21.11-3.7.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/2lg2mCPe/versions/uWe5EBxz/strayspawn-1.21.11-3.7.jar"
+hash-format = "sha512"
+hash = "0ab964601360881ab16b725f1e30dc206a96a00a0ecfc1ae6ac10a50b9a999b35a085fd723221529089804bbaf5258e70ae898b9a073f0ff05c0e503b54ad6a3"
+
+[update]
+[update.modrinth]
+mod-id = "2lg2mCPe"
+version = "uWe5EBxz"

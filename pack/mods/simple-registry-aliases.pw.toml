@@ -1,0 +1,13 @@
+name = "Simple Registry Aliases"
+filename = "simple-registry-aliases-1.0.0+1.21.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/nILYwKV9/versions/b15unlVp/simple-registry-aliases-1.0.0%2B1.21.4.jar"
+hash-format = "sha512"
+hash = "46b8c0b437661f96196c5821673ff95c44bd8c22fb5c6e6143e4bd46d8885f4a982e475b42bc9d9a7eabdeca2c47b8cd578eac310106b1228416f5ece4eb34ec"
+
+[update]
+[update.modrinth]
+mod-id = "nILYwKV9"
+version = "b15unlVp"

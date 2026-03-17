@@ -1,0 +1,30 @@
+{
+  "_c0": "UUID of default/main resource pack.",
+  "main_uuid": "166eccf7-29c3-4096-8d4a-64c388615412",
+  "_c1": "Marks resource pack as required, only effects clients and mods using api to check it",
+  "markResourcePackAsRequiredByDefault": true,
+  "_c5": "Included resource packs from mods!",
+  "include_mod_assets": [
+    "butterbee",
+    "mr_dungeons_andtaverns",
+    "mr_pocket_dimension"
+  ],
+  "_c6": "Included resource packs from zips!",
+  "include_zips": [
+    "world/resources.zip",
+    "polymer/extra/*.zip",
+    "resources/common/required/*.zip"
+  ],
+  "_c7": "Path used for creation of default resourcepack!",
+  "resource_pack_location": "polymer/resource_pack.zip",
+  "_c8": "Prevents selected paths from being added to resource pack, if they start with provided text.",
+  "prevent_path_with": [
+    "assets/cinderscapes/sounds/music/",
+    "assets/enderscape/sounds/",
+    "assets/cinderscapes/textures/gui/panorama/"
+  ],
+  "_c9": "Removes the incompatibility warning on the default pack, by marking it as compatible with everything.",
+  "ignore_pack_version": false,
+  "_c10": "Toggles logging of non-critical errors when generating the pack.",
+  "log_errors": false
+}

@@ -1,0 +1,13 @@
+name = "Enchantree"
+filename = "clgd-enchanting-table-1.1.3.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/47vEYX8Y/versions/F7RJ8rP8/clgd-enchanting-table-1.1.3.jar"
+hash-format = "sha512"
+hash = "77df0d95780056e7f7ab4bb0a5531f194560abf4ba37f00b44b5177e665945a98dc40a4d25f549a69d1c6f61f0520cf19c6d8c9faf703db69c70e2f089de766b"
+
+[update]
+[update.modrinth]
+mod-id = "47vEYX8Y"
+version = "F7RJ8rP8"
