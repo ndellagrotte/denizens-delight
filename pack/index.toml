@@ -1089,10 +1089,6 @@ file = "mods/MoogsSoaringStructures-1.21-2.0.2.jar"
 hash = "6d09750501b20d73479b05cfbbe9e31f878ce3e69c269d80763d1994dc41371c"
 
 [[files]]
-file = "mods/MoogsTemplesReimagined-1.21-1.1.0.jar"
-hash = "9c8349ffae09a9d6490543458cca04f3bf01670da49f18b41d16b2d5f0fbf5f8"
-
-[[files]]
 file = "mods/MoogsVoyagerStructures-1.21-5.0.5.jar"
 hash = "a1dd26dbed9521e129942bf5a90542412751402bbf7d08513238bdba4513b537"
 
@@ -1137,8 +1133,9 @@ file = "mods/anvil-too-expensive-fix-1.0.1+1.21.X.jar"
 hash = "a13ebaf248b0872b528be4e7fe67be459ca81d85a8c28fc9c6422994a039293c"
 
 [[files]]
-file = "mods/arcananovum-3.1.17+1.21.11.jar"
-hash = "e97e0962c775a5d7068cca178c7e9a1c1d871f1a9b62123c2756e19e18331225"
+file = "mods/arcana-novum.pw.toml"
+hash = "7c82c1e1a03c534aacf1f03fbbf7a63eb3b0776669896282b5aadc63f492a481"
+metafile = true
 
 [[files]]
 file = "mods/architectury-19.0.1-fabric.jar"
@@ -1290,8 +1287,9 @@ file = "mods/fabric-api-protocol-fix-1.0.0.jar"
 hash = "d6d8d16a584c2656c0dd70fe288e6330369567badccd7a7cdbaa57210876a52e"
 
 [[files]]
-file = "mods/fabric-language-kotlin-1.13.9+kotlin.2.3.10.jar"
-hash = "fecd5e6dd6ae76814ba92136b417912c19b19ec76ea451cede472cd29cdecf91"
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "408151861cc1b1a4c4e9c8a3550662a2fc36d0ea96ee07b7e96c5d2a6afacf6f"
+metafile = true
 
 [[files]]
 file = "mods/farmers-delight-polymer-patch-3.4.3.0+1.21.11.jar"
@@ -1406,6 +1404,11 @@ file = "mods/moretools-1.9.0+1.21.11.jar"
 hash = "176ffb8225da1106880af2f60537e85415e1bf53ba79c16a3b26fa07d1fd1572"
 
 [[files]]
+file = "mods/mtr-moogs-temples-reimagined.pw.toml"
+hash = "b7d2538e280bf4f16c4a737722880a1adbdc345b1d9fe4b38fff9cfc34b55cac"
+metafile = true
+
+[[files]]
 file = "mods/naturally_trimmed-3.2.0+1.21.11-fabric.jar"
 hash = "ea00e235a736c68ff208dae88a7a0c12bfc1cc593b304658351c7d909f92764f"
 
@@ -1478,8 +1481,9 @@ file = "mods/polydex-1.8.1+1.21.11.jar"
 hash = "b1638e0f0d6200ce3cb9e19f5dc782a17c950b7e88a925f5858a417d098c75f3"
 
 [[files]]
-file = "mods/polyfactory-0.10.4+1.21.11.jar"
-hash = "c1e2c84d4a9a8595dcb324d87790f862934e7acab27d57d8d9b56ee8691eee8d"
+file = "mods/polyfactory.pw.toml"
+hash = "b8a7225060e661b80b7cfc87f0fcc7c3aad9d11efa90c8370595ddee85174d62"
+metafile = true
 
 [[files]]
 file = "mods/polymer-bundled-0.15.2+1.21.11.jar"
@@ -1563,10 +1567,6 @@ file = "mods/starterkit-1.21.11-7.6.jar"
 hash = "5ba55964b91fd6b0a74f6c0892d9f2a33ecd3ea1637e498a1682098c427c101f"
 
 [[files]]
-file = "mods/storagerecursion-1.1.1+1.21.5.jar"
-hash = "c0669daefa3c4dd2defbb756b8b0cfae34b6b11bb94d895e1e8ee62c6a065724"
-
-[[files]]
 file = "mods/strayspawn-1.21.11-3.7.jar"
 hash = "ba17570c9dde6d3f9d665928efe7a9270615bc6635e83cdc160253dd77a31aff"
 
@@ -1600,8 +1600,9 @@ file = "mods/toms_mobs-3.0.2+1.21.11.jar"
 hash = "128a70c526e23d3a3939e6ea1c628d5f1d2c4e0e05abbeaaa3fa8648bfd4aa29"
 
 [[files]]
-file = "mods/traverse-8.6.0-beta.1.jar"
-hash = "98d8074caa0cbcd1984fabaab1ee0b18c495fe919ac6c5f6c2d5ed0bd3fecf0d"
+file = "mods/traverse.pw.toml"
+hash = "7835db12ba5059aea539e114876cc498344a5587e4130e2039861731e7003655"
+metafile = true
 
 [[files]]
 file = "mods/trek.pw.toml"
