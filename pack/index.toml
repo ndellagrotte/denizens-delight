@@ -1093,6 +1093,10 @@ file = "mods/WoodsAndMires-2.1.2-geophilic-compat+1.21.11.jar"
 hash = "0e1ed97375a1fdd54be51db7a163d9b958ec28fac939edfa18b7308994b576d7"
 
 [[files]]
+file = "mods/Worldthreader-2.7.3.jar"
+hash = "a1cbaeb2ac38123314990a1734ca87710d49d76d527f6234c1d1eb5fa0adec8b"
+
+[[files]]
 file = "mods/alternate-current-mc1.21.11-1.9.0.jar"
 hash = "29d9ac854ca53910029916553b8aef926fbea525ef78a7636ce81c970833a1e4"
 
