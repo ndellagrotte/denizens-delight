@@ -1488,6 +1488,10 @@ file = "mods/personal-loot-1.0.2.jar"
 hash = "42b8f9c73c112b3d751dfd744a549f9428d0c1d95270dd1ee3fdc3e2705a898a"
 
 [[files]]
+file = "mods/physics_toys-0.8.0+1.21.11.jar"
+hash = "30a4beb63471a00476d3f28668b57629e1479de057f1336dba49f2f5507b7300"
+
+[[files]]
 file = "mods/placeholder-api-2.8.2+1.21.10.jar"
 hash = "975c7e575c27bf6fa82baaf8cd7645051a298f74bf95cf58092b104dd21de5ed"
 
