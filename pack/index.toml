@@ -1296,6 +1296,11 @@ file = "mods/ferritecore-8.2.0-fabric.jar"
 hash = "f76bd760cbf48280cc7c43180f5089a46235fa24d934a8acf3da04a664c2c715"
 
 [[files]]
+file = "mods/filament.pw.toml"
+hash = "0cccae3204a167e4ff24480754730e7811c87b5a80a8b4d3837fd5004ddceb29"
+metafile = true
+
+[[files]]
 file = "mods/formations-1.0.4-fabric-mc1.21.11.jar"
 hash = "a602454da258bc46cdcb6b7057ccbef632f83a4233b28e5201eef0bb6273919c"
 
@@ -1672,6 +1677,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets-3.11.0-beta.1+polymerport.4.jar"
 hash = "b1fcfb6c8299f0bc66cc1cda510f251993a0411acf5a2f11a989b3b8ade1552f"
+
+[[files]]
+file = "mods/tsa-decorations.pw.toml"
+hash = "5419f7c40e66973713667a4ddcbbf4a9612459e6adb0031f0bb5a65fb9775876"
+metafile = true
 
 [[files]]
 file = "mods/unlock-all-recipes-94.1.jar"
