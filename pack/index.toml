@@ -1226,6 +1226,11 @@ file = "mods/defaulted-fabric-1.21.9-1.2.1.jar"
 hash = "2e7aa3504b96e2076a4f6400aba149f0a514cc476198af40824f7e8ad555d350"
 
 [[files]]
+file = "mods/deimos.pw.toml"
+hash = "233608c96bd9d10636ece040af37a2bf7618d23f128da655fc035640e96cafbc"
+metafile = true
+
+[[files]]
 file = "mods/dimensionfixer.pw.toml"
 hash = "a82f6fffb202984f435a4e7158df4c1f728d8aed3f8a3e30a9348ed35caa89e3"
 metafile = true
@@ -1421,6 +1426,15 @@ metafile = true
 [[files]]
 file = "mods/moogs_structure_lib-1.1.0-1.21.11-fabric.jar"
 hash = "dfef8c7ea48c8e8e26539adfb27470b500877de4028eb44528a9349a6ffa98c5"
+
+[[files]]
+file = "mods/more-music-discs.pw.toml"
+hash = "7670bf98a7aeb4b413c5d749e16749fbb0bd6719b58547bc0c837980b2f1067a"
+metafile = true
+
+[[files]]
+file = "mods/morediscs-polymer-1.0.1-dev.jar"
+hash = "cd39bf2ec111d2510f7bd44798915a02bf55eca665051ab6f2f924c5ac17391b"
 
 [[files]]
 file = "mods/morefurnaces-1.2.1+1.21.11.jar"
