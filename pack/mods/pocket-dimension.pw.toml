@@ -1,0 +1,15 @@
+name = "pocket_dimension"
+filename = "pocket_dimension-v1.21.10.1.1+mod-hotfix.jar"
+side = "both"
+
+[download]
+url = "https://github.com/ndellagrotte/pocket_dimension/releases/download/v1.21.10.1.1%2Bmod-hotfix/pocket_dimension-v1.21.10.1.1%2Bmod-hotfix.jar"
+hash-format = "sha256"
+hash = "f9c3edc27f900560098112741e15bdeebe84a9034ec76041a1639c874179bbb4"
+
+[update]
+[update.github]
+branch = "main"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "ndellagrotte/pocket_dimension"
+tag = "v1.21.10.1.1+mod-hotfix"

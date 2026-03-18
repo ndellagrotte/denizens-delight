@@ -1,12 +1,12 @@
 name = "Denizen's Delight"
 author = "SwankyDenizen"
-version = "1.0.1"
+version = "1.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e9116a140652cb5f4c7ab593c0e919c23faa090c1bf066f64330b41be1b1e8e7"
+hash = "7ffaa9a58b41d5fbdd3442551aed66d54601ddf3a8ffbf63376aa6ae8170464d"
 
 [versions]
 fabric = "0.18.4"
