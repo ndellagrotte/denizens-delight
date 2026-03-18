@@ -1694,6 +1694,10 @@ file = "mods/zombiehorsespawn-1.21.11-5.2.jar"
 hash = "d406dbaea10a4e56ab533000f9ca131abe97a241bdf70e532d8d546e4539e5d7"
 
 [[files]]
+file = "polymer/extra/Ashen_16x.zip"
+hash = "5098b2e6cefa105de367f5b347f9d82e094507197f80f7d34f68d4fd098bf7dc"
+
+[[files]]
 file = "polymer/extra/Banner_TextRP-v1.4.0.zip"
 hash = "d7e9d8e4447331c88012c24d67e1a184bee9fc829bf861404f59c1413d94d45c"
 
