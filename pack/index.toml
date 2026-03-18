@@ -1702,10 +1702,6 @@ file = "polymer/extra/Banner_TextRP-v1.4.0.zip"
 hash = "d7e9d8e4447331c88012c24d67e1a184bee9fc829bf861404f59c1413d94d45c"
 
 [[files]]
-file = "polymer/extra/Better Lanterns v1.3.1 - 1.21.11.zip"
-hash = "77bd224da7894dc7c92c4a799821a534dcba8b360896c5c2941fcd1e513cdd4f"
-
-[[files]]
 file = "polymer/extra/EvenBetterEnchants.zip"
 hash = "111b09481dc2e1153f8bdae530fbe0ae3028113fef154e46ab43ceafe7910dc8"
 
@@ -1724,14 +1720,6 @@ hash = "1ee8fb692cf7bd9546d101c19d804b3823b22b3f283fb3d3b50b01a9be8bcc2f"
 [[files]]
 file = "polymer/extra/NeverTooExpensive.zip"
 hash = "d26a82c4fc106779aa48c08cb4e324da637fc07e00d9e510fcb89b34abba639e"
-
-[[files]]
-file = "polymer/extra/RaysLadders.zip"
-hash = "3fa0bb46b5ef1ce12e4a7bb057778ff826a9cd7ed063aff650793820e66adea4"
-
-[[files]]
-file = "polymer/extra/RaysRails.zip"
-hash = "5342dd2be1b7a2a7856d695e6593955d8abfee0883ebc7d67fa95fc468cdf1f7"
 
 [[files]]
 file = "polymer/extra/Sparkles_1.21.x_v1.1.6.zip"
