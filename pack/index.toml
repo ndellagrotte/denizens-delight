@@ -802,7 +802,7 @@ hash = "f6a4950e02e2e2aac4525c924b22500282fc27996d4385de466ab34ff8d6dcd6"
 
 [[files]]
 file = "config/simpleupdatechecker_modpack.json"
-hash = "8481644045ce04b2529828d201f372b670db803a7ee9b6dee6588c29d1a23d1b"
+hash = "62ff679d05d232db10a770c9abeb13fb3cdce5e93ab5a2d644d3ed44a2525e30"
 
 [[files]]
 file = "config/simpleupdatechecker_user.json"
@@ -1521,10 +1521,6 @@ file = "mods/polychess-0.1.3+1.21.11.jar"
 hash = "b84ddde9212924849a22103de19717a9b6aa9691366edabb6e579cbd93a6b7fa"
 
 [[files]]
-file = "mods/polydecorations-0.10.4+1.21.11.jar"
-hash = "973843bec8af8890b13786e9114d9b4abd7fe046d12c83c48dad0f992f3897a9"
-
-[[files]]
 file = "mods/polydex-1.8.1+1.21.11.jar"
 hash = "b1638e0f0d6200ce3cb9e19f5dc782a17c950b7e88a925f5858a417d098c75f3"
 
@@ -1681,6 +1677,10 @@ metafile = true
 [[files]]
 file = "mods/trinkets-3.11.0-beta.1+polymerport.4.jar"
 hash = "b1fcfb6c8299f0bc66cc1cda510f251993a0411acf5a2f11a989b3b8ade1552f"
+
+[[files]]
+file = "mods/tsa-decorations-2.1.13+1.21.11.jar"
+hash = "3f2031b171ca1ad777213279d571d69265c091fbd6fba4aefc3042e0064e9a20"
 
 [[files]]
 file = "mods/tsa-decorations.pw.toml"
