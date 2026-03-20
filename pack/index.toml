@@ -1559,8 +1559,8 @@ file = "mods/roguelike-dungeons-fabric-2.1.2+mc1.21.11.jar"
 hash = "1e3c3735a7124dc4db2f90da95813bbf1b88165b557e4c002e750b8ec13739ea"
 
 [[files]]
-file = "mods/serverbackpacks-1.5.1+1.21.11.jar"
-hash = "f16b40bf58ed7789c68ab46a4126e43c2055e51536b3fbbc90320c2af204d8ab"
+file = "mods/server-backpacks-fork.jar"
+hash = "5a7a0d84d9857af6bcc509ad1c367d0e9629534e0497a6506558cb6eea107fa5"
 
 [[files]]
 file = "mods/servercore-fabric-1.5.15+1.21.11.jar"
@@ -7646,6 +7646,10 @@ hash = "0255c9650790a450dca8b7436b994d09c99f9589274607b5d92debf1be2d559a"
 [[files]]
 file = "resources/common/required/polymania/pack.mcmeta"
 hash = "8e2bbec2fbe72cdf30bb4380c4e01bfc0b42476bfa5412c30bf360ee75641275"
+
+[[files]]
+file = "resources/common/required/saturated-vibe-port-v1.1.1p+1.21.11.zip"
+hash = "acae43e4fccddc0da6189e9c670b7fb3634729ad37fcf63c9b9c64b6c05a92de"
 
 [[files]]
 file = "resources/common/required/translations-for-patboxs-mods.pw.toml"
