@@ -802,7 +802,7 @@ hash = "f6a4950e02e2e2aac4525c924b22500282fc27996d4385de466ab34ff8d6dcd6"
 
 [[files]]
 file = "config/simpleupdatechecker_modpack.json"
-hash = "62ff679d05d232db10a770c9abeb13fb3cdce5e93ab5a2d644d3ed44a2525e30"
+hash = "208720a70b1984a97dc9a9638d02d0f51b66219098c9fff49f99b92d3371461d"
 
 [[files]]
 file = "config/simpleupdatechecker_user.json"
@@ -1559,8 +1559,8 @@ file = "mods/roguelike-dungeons-fabric-2.1.2+mc1.21.11.jar"
 hash = "1e3c3735a7124dc4db2f90da95813bbf1b88165b557e4c002e750b8ec13739ea"
 
 [[files]]
-file = "mods/server-backpacks-fork.jar"
-hash = "5a7a0d84d9857af6bcc509ad1c367d0e9629534e0497a6506558cb6eea107fa5"
+file = "mods/serverbackpacks-1.5.2+1.21.11.jar"
+hash = "0d21e11784c1ce477b69c53ee00229acf982118676154292c327c5e461d7eae1"
 
 [[files]]
 file = "mods/servercore-fabric-1.5.15+1.21.11.jar"
