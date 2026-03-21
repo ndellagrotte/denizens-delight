@@ -985,12 +985,24 @@ file = "config/zombiehorsespawn.json5"
 hash = "f2ae2047e8264c7b33a1f841c26713ffe3822a2d671b92169ce6fe955a7af739"
 
 [[files]]
+file = "datapacks/DarkPaintings.zip"
+hash = "5058444b320fc196d70b761e6842b8560df4b7b43573f08aa8a93ea6e5352d27"
+
+[[files]]
 file = "datapacks/DnT 5.1 Enchant Disabler.zip"
 hash = "e8c3c0a423f592cf7d4736bfaf262d6e884fe293d6d091479083da7f0ef5d85e"
 
 [[files]]
 file = "datapacks/graves-v1.3.1-denizen.zip"
 hash = "773a58108e82b06962a21d3f6a1abeba9a3d75ed37d63aa8d44b1cbc75f428d1"
+
+[[files]]
+file = "datapacks/patbox-translations-2025-04-10.zip"
+hash = "fc41ae5d430b57ed564dfd33cc3b1d5062532c2d4288a3ede20b3a61ba8c6606"
+
+[[files]]
+file = "datapacks/polymania.zip"
+hash = "d9cdfa1ba6d696c3868cfe6e10e7242261e928097e52f320afbbb0f98367534a"
 
 [[files]]
 file = "datapacks/saturated-vibe-port-v1.1.1p+1.21.11.zip"
@@ -7386,227 +7398,6 @@ hash = "4622a2e4b1abd704483b29fc19545017e494bce7face706f38fc2d80a0436f3e"
 [[files]]
 file = "polymer/override_assets/assets/traverse/models/block/yellow_autumnal_leaves.json"
 hash = "612cd7fb9ae2ea4a53b6628949d96476ddd234ecdb2c3fc04e7aa5776f638adf"
-
-[[files]]
-file = "resources/common/required/DarkPaintings.zip"
-hash = "5058444b320fc196d70b761e6842b8560df4b7b43573f08aa8a93ea6e5352d27"
-
-[[files]]
-file = "resources/common/required/polymania/data/illagerexp/advancement/adventure/find_mansion.json"
-hash = "89f833a8136a61873be84a5be862e4abc0fafe248c5dff5dfeca03084547a6c5"
-
-[[files]]
-file = "resources/common/required/polymania/data/illagerexp/worldgen/structure_set/firecaller_hut.json"
-hash = "5552f9d0be509a441e71ad87392080e8e0b55067aa5c872d0bf89bdde0c40563"
-
-[[files]]
-file = "resources/common/required/polymania/data/illagerexp/worldgen/structure_set/illager_fort.json"
-hash = "7aa8533e676ea67e000a5dea86dbbef98011c72c4f74eeec9d48ee18c9709f51"
-
-[[files]]
-file = "resources/common/required/polymania/data/illagerexp/worldgen/structure_set/illusioner_tower.json"
-hash = "30cfcbc9e90e519d0123cd8c133165d05bfb597c3ffec1bda6d0d6bf52858db2"
-
-[[files]]
-file = "resources/common/required/polymania/data/illagerexp/worldgen/structure_set/labyrinth.json"
-hash = "bd48180b0db5ecbedd352290beeee1856a54726316c667a99dd8fb446e19783a"
-
-[[files]]
-file = "resources/common/required/polymania/data/illagerexp/worldgen/structure_set/sorcerer_hut.json"
-hash = "fee1c28effcf75b15339ef7fd68614366dfe18ff5ca4cdb3245450ba784a5672"
-
-[[files]]
-file = "resources/common/required/polymania/data/minecraft/advancement/recipes/saddle.json"
-hash = "847f7d7ee1323df6aba498148b1fc1da615cf8309b1a29ebd2a74a079ab3252d"
-
-[[files]]
-file = "resources/common/required/polymania/data/minecraft/loot_table/blocks/resin_brick_slab.json"
-hash = "33084f1aa6871ec9fb42f26353631f3669a90a32aa9a4c086f716c3dde0740d9"
-
-[[files]]
-file = "resources/common/required/polymania/data/minecraft/recipe/activator_rail.json"
-hash = "663d6ff8d178aa05a07d6086feeaca02bd79281dacb257dcb614201e3f7df9fc"
-
-[[files]]
-file = "resources/common/required/polymania/data/minecraft/recipe/detector_rail.json"
-hash = "3199fa6a0aab8d837ee3565394ab38cb63eb027d65029b45a5e5a6a3ac7677a3"
-
-[[files]]
-file = "resources/common/required/polymania/data/minecraft/recipe/iron_chain.json"
-hash = "becd952dd9de3d2f3d20591042f765c68617fc2c59f6eefb1517087947239e80"
-
-[[files]]
-file = "resources/common/required/polymania/data/minecraft/recipe/powered_rail.json"
-hash = "28def6d0f03df6746368d21a25e7bf0a4c72f5216231026b3abb4e846e1e3a30"
-
-[[files]]
-file = "resources/common/required/polymania/data/minecraft/recipe/rail.json"
-hash = "329fe76c1fc3175e3dec39e9dea7e79ba56c3f528024e11a3c9f92222d93af40"
-
-[[files]]
-file = "resources/common/required/polymania/data/minecraft/recipe/saddle.json"
-hash = "7c6dcee2b8372f8da5d998d2215cb5b2f627b4d1e28adcc0e228b784e380040d"
-
-[[files]]
-file = "resources/common/required/polymania/data/minecraft/tags/dialog/pause_screen_additions.json"
-hash = "5921e9e59475c60c55e2bc957903d665c2d0d420ba9a6fb2ab5eb3fa13fe931d"
-
-[[files]]
-file = "resources/common/required/polymania/data/minecraft/tags/dialog/quick_actions.json"
-hash = "13c072f2b8f42df2076d78f6cffc421e90154b1017d16e511b949c0e6d6c74e9"
-
-[[files]]
-file = "resources/common/required/polymania/data/minecraft/tags/item_old/villager_plantable_seeds.json"
-hash = "b68c220d14b23788aea18f003c8db0258012b9a6c836b5b7377ad07145e1456d"
-
-[[files]]
-file = "resources/common/required/polymania/data/polymania/dialog/pause_screen_additions.json"
-hash = "dde1a96e58b86312ec82e8812d9e22001101fcbb8129f06eee16e768c2107a08"
-
-[[files]]
-file = "resources/common/required/polymania/data/polymania/dialog/quick_actions.json"
-hash = "f2cb01910ac3b1d2f92981ab6694ff14000dce808518bca25a01f19f360bf961"
-
-[[files]]
-file = "resources/common/required/polymania/data/polymania/jsonpatch/biome/desert_like.jsonpatch"
-hash = "b0d29c31c78d0319fd752792f800ab86706e8952577d2a381b745504fe2c92bc"
-
-[[files]]
-file = "resources/common/required/polymania/data/polymania/jsonpatch/biome/forest_like_sky_water.jsonpatch"
-hash = "07e197e82b550cf059c597b302af10f3f57ce31acf98a3728651c6728d18a3db"
-
-[[files]]
-file = "resources/common/required/polymania/data/polymania/jsonpatch/biome/savanna_like.jsonpatch"
-hash = "7fc33d8ca41b39c3ac8e7d855056a32e2999801e05b7b1afd7d1f5ecd11f4971"
-
-[[files]]
-file = "resources/common/required/polymania/data/polymania/jsonpatch/biome/snowy_like.jsonpatch"
-hash = "06262f0bd313786dee8387e8a8e97449ab6d5d410d6282fd7e6196d043bb020b"
-
-[[files]]
-file = "resources/common/required/polymania/data/polymania/jsonpatch/gliders.jsonpatch"
-hash = "f0d5b68aee3bec78455ad3f4ed6ff2e50db234f9cb7297db7fcd1f651817adf1"
-
-[[files]]
-file = "resources/common/required/polymania/data/rocks/worldgen/placed_feature/acacia_stick.json"
-hash = "220a065bce63dba4bf31c471515d28d31e0655f1f809b300fcee31c09608014c"
-
-[[files]]
-file = "resources/common/required/polymania/data/rocks/worldgen/placed_feature/andesite_rock.json"
-hash = "4f741e238d45ceef71590bc30113cdc29e0af051f9ed3958d2789be6af5e033b"
-
-[[files]]
-file = "resources/common/required/polymania/data/rocks/worldgen/placed_feature/bamboo_stick.json"
-hash = "2bbe31164f85cfdf522a63d7a5a42b09c5fd860492f6a83b3c2bcc215505f773"
-
-[[files]]
-file = "resources/common/required/polymania/data/rocks/worldgen/placed_feature/birch_stick.json"
-hash = "2665fe89dba395526d288730fca59f4a80bdb896ce3f685bb027e649920ff96c"
-
-[[files]]
-file = "resources/common/required/polymania/data/rocks/worldgen/placed_feature/cherry_stick.json"
-hash = "8a7c48bb181d5a0659104c80ab1f452f6ee7f0848a5e6602883cac3077150199"
-
-[[files]]
-file = "resources/common/required/polymania/data/rocks/worldgen/placed_feature/crimson_stick.json"
-hash = "037f4cde51761808ca60ca007ba9a3c97dd9bf337bef904a43d60370193f6651"
-
-[[files]]
-file = "resources/common/required/polymania/data/rocks/worldgen/placed_feature/dark_oak_stick.json"
-hash = "d7301f01047f87ce16008b4ec98856b6b81892497963179111ebd8181842ee9f"
-
-[[files]]
-file = "resources/common/required/polymania/data/rocks/worldgen/placed_feature/diorite_rock.json"
-hash = "9941d1124a61bf94b7f4f64685666968dc6cb27d261f627316829f57338ed3c2"
-
-[[files]]
-file = "resources/common/required/polymania/data/rocks/worldgen/placed_feature/end_stone_rock.json"
-hash = "42cbbef4e23f388fe7487b74f64ba8231ec03363c6edffbc6314089a76bd89b3"
-
-[[files]]
-file = "resources/common/required/polymania/data/rocks/worldgen/placed_feature/granite_rock.json"
-hash = "e6ea562097451d7b27589de6f1754d2629befc439e0b6ea971c710b59361bbac"
-
-[[files]]
-file = "resources/common/required/polymania/data/rocks/worldgen/placed_feature/gravel_rock.json"
-hash = "7ddd76bd39b40112d7de99be498112dc6dd289b6bd9a33ffb8c51cfc14ebf9a0"
-
-[[files]]
-file = "resources/common/required/polymania/data/rocks/worldgen/placed_feature/jungle_stick.json"
-hash = "18ca22f474311e12d5777511f34de8321b579f04688f3c8848af309b4c296c4a"
-
-[[files]]
-file = "resources/common/required/polymania/data/rocks/worldgen/placed_feature/mangrove_stick.json"
-hash = "1d6a53ca86ef19f7fcde9918d301772465f74aa15808a9ecfbab3bacd0322719"
-
-[[files]]
-file = "resources/common/required/polymania/data/rocks/worldgen/placed_feature/nether_geyser.json"
-hash = "30a2325a2a119134358fb40256a008874e3f5a7d2ddb85f6b3130b84f52cf903"
-
-[[files]]
-file = "resources/common/required/polymania/data/rocks/worldgen/placed_feature/nether_gravel_rock.json"
-hash = "b5cf433090a8a72faf021e9d3a63e1ddf4c66315d87a17225b6e40fa8c14f3cd"
-
-[[files]]
-file = "resources/common/required/polymania/data/rocks/worldgen/placed_feature/netherrack_rock.json"
-hash = "e2fa852524d1002bf5f129bfc13a8799d832bbc58b612c4a9197f08443cfb523"
-
-[[files]]
-file = "resources/common/required/polymania/data/rocks/worldgen/placed_feature/oak_stick.json"
-hash = "54ad940ea6f7744c6159419b1a286cc6f2b864a5c215938cf60779683d4f4233"
-
-[[files]]
-file = "resources/common/required/polymania/data/rocks/worldgen/placed_feature/red_sand_rock.json"
-hash = "2a48a450d19e3e263639f509f9aa96f69440746016741fba5994c767c1faeff7"
-
-[[files]]
-file = "resources/common/required/polymania/data/rocks/worldgen/placed_feature/rock.json"
-hash = "7858f891e0668cd54c44282c5ae7752c264b620a50b5d31db6b0bbd97eb5782f"
-
-[[files]]
-file = "resources/common/required/polymania/data/rocks/worldgen/placed_feature/sand_rock.json"
-hash = "4e10c0d22651eb5c02336a20ddf09292cb8a5fcc1a001f47ee23853fee649552"
-
-[[files]]
-file = "resources/common/required/polymania/data/rocks/worldgen/placed_feature/seashell.json"
-hash = "7f235059894de03e5279d4fab911782507d70f9fa4210a8af1e965fa9d128d40"
-
-[[files]]
-file = "resources/common/required/polymania/data/rocks/worldgen/placed_feature/snowy_geyser.json"
-hash = "a7d06500bf439d28eb4efa9906f0e2be659873b0129fb8a7a3d7fa03a7a0181f"
-
-[[files]]
-file = "resources/common/required/polymania/data/rocks/worldgen/placed_feature/soul_soil_rock.json"
-hash = "83d2209872fb5a419393e838dedef67622075d8b7a3e1f97c433ba44e2e8de86"
-
-[[files]]
-file = "resources/common/required/polymania/data/rocks/worldgen/placed_feature/spruce_stick.json"
-hash = "7fbd48661df583413af2cd19a00055a81aa6cae7a41461b043dfedfa86cf3fae"
-
-[[files]]
-file = "resources/common/required/polymania/data/rocks/worldgen/placed_feature/starfish.json"
-hash = "8656c378357e15e4b0e974875900535156275673b09417d76d12cf19fe39b7c7"
-
-[[files]]
-file = "resources/common/required/polymania/data/rocks/worldgen/placed_feature/underwater_seashell.json"
-hash = "9e5552849a756c03a9e74d13edaf3b25f3ee42a767c7a5365f14bd211e3a5f34"
-
-[[files]]
-file = "resources/common/required/polymania/data/rocks/worldgen/placed_feature/underwater_starfish.json"
-hash = "c06a8d4ed24cb0ef378e4933636a93399b3e4b0445bb7c71d36f86d0a5c116c7"
-
-[[files]]
-file = "resources/common/required/polymania/data/rocks/worldgen/placed_feature/warped_stick.json"
-hash = "0255c9650790a450dca8b7436b994d09c99f9589274607b5d92debf1be2d559a"
-
-[[files]]
-file = "resources/common/required/polymania/pack.mcmeta"
-hash = "8e2bbec2fbe72cdf30bb4380c4e01bfc0b42476bfa5412c30bf360ee75641275"
-
-[[files]]
-file = "resources/common/required/translations-for-patboxs-mods.pw.toml"
-hash = "d6c84505b329e5f515b2475097fffe7579b9d9d1767a4bc65f07df67839ef779"
-metafile = true
 
 [[files]]
 file = "server-icon.png"
