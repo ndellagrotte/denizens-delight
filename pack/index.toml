@@ -957,34 +957,6 @@ file = "config/trinkets_polymer.json"
 hash = "27dcf3d63d1ba2a2e94eb02121c678bd9f3da167478becb8a5540a401631579c"
 
 [[files]]
-file = "config/universal-graves/config.json"
-hash = "e5de99ef8cf0b47ade7d9248385778d33bdecae381fc4ee246d2c54749c7d81a"
-
-[[files]]
-file = "config/universal-graves/example_models/corpse_player.json"
-hash = "f1f86bd740c9bde120cca8769e900005cf46f67cfb076b65b50c339f47deb69e"
-
-[[files]]
-file = "config/universal-graves/example_models/corpse_zombie.json"
-hash = "dc1ee62c77ef7831f52c1c9a44c5dff3e5ccaa4094d43438e9fdbe1f41a06a17"
-
-[[files]]
-file = "config/universal-graves/example_models/default.json"
-hash = "c0f6c5e52fcfe066b1b300e9c4c738feb87dc1397ce45e58b99b63cb25e07167"
-
-[[files]]
-file = "config/universal-graves/example_models/ender.json"
-hash = "87be637b2b08c7f97550362d66f1682ce475c4c29a470f96a44cdf86f6dc6c0e"
-
-[[files]]
-file = "config/universal-graves/example_models/player_head.json"
-hash = "c0f6c5e52fcfe066b1b300e9c4c738feb87dc1397ce45e58b99b63cb25e07167"
-
-[[files]]
-file = "config/universal-graves/example_models/soul.json"
-hash = "bd3c7cba512978e4d0f5632aed773b47d93e80e9243656fc092d6cc56ddc53e1"
-
-[[files]]
 file = "config/vanilla_crit_impl.js"
 hash = "a8be2a63c3ffb97a1398d29ac99bf4a9bf318dc91bf604b94dbdcd04f4800d7c"
 
@@ -1296,6 +1268,10 @@ file = "mods/ferritecore-8.2.0-fabric.jar"
 hash = "f76bd760cbf48280cc7c43180f5089a46235fa24d934a8acf3da04a664c2c715"
 
 [[files]]
+file = "mods/filament-1.3.22+1.21.11.jar"
+hash = "343fcc02f7092a58485f09a88c455e247a389c52381f55b90ba68a403a8392bb"
+
+[[files]]
 file = "mods/formations-1.0.4-fabric-mc1.21.11.jar"
 hash = "a602454da258bc46cdcb6b7057ccbef632f83a4233b28e5201eef0bb6273919c"
 
@@ -1491,10 +1467,6 @@ file = "mods/placeholder-api-2.8.2+1.21.10.jar"
 hash = "975c7e575c27bf6fa82baaf8cd7645051a298f74bf95cf58092b104dd21de5ed"
 
 [[files]]
-file = "mods/player-graves-1.3.1.jar"
-hash = "f04a9a9afca0bd0ca2992de3946a2089667e7ef33784de1833811a4a15e3c2a1"
-
-[[files]]
 file = "mods/plushables-fabric-2.1.0+1.21.11.jar"
 hash = "f8e6c34bdfd0bac219e17ba8ec9802e15d0850882c5088295a7aa63c94ebd31e"
 
@@ -1514,10 +1486,6 @@ hash = "6162300a70c6ff682dd9f1446c4d9ddebc2b8b716d4f4177c337b34b2595e6eb"
 [[files]]
 file = "mods/polychess-0.1.3+1.21.11.jar"
 hash = "b84ddde9212924849a22103de19717a9b6aa9691366edabb6e579cbd93a6b7fa"
-
-[[files]]
-file = "mods/polydecorations-0.10.4+1.21.11.jar"
-hash = "973843bec8af8890b13786e9114d9b4abd7fe046d12c83c48dad0f992f3897a9"
 
 [[files]]
 file = "mods/polydex-1.8.1+1.21.11.jar"
@@ -1607,10 +1575,6 @@ file = "mods/sswaystones-1.3.0.jar"
 hash = "b026c0442c1f576b831632fb90c92bdeded2c1c2cc3db53d5bc2c6bd5add0975"
 
 [[files]]
-file = "mods/stackplus-1.0.0_1.21.11.jar"
-hash = "f416df217851f5e47785f4dac30f582d2538d64379a93673b6f020d9c319b43d"
-
-[[files]]
 file = "mods/starterkit-1.21.11-7.6.jar"
 hash = "5ba55964b91fd6b0a74f6c0892d9f2a33ecd3ea1637e498a1682098c427c101f"
 
@@ -1680,6 +1644,10 @@ metafile = true
 [[files]]
 file = "mods/trinkets-3.11.0-beta.1+polymerport.4.jar"
 hash = "b1fcfb6c8299f0bc66cc1cda510f251993a0411acf5a2f11a989b3b8ade1552f"
+
+[[files]]
+file = "mods/tsa-decorations-2.1.13+1.21.11.jar"
+hash = "3f2031b171ca1ad777213279d571d69265c091fbd6fba4aefc3042e0064e9a20"
 
 [[files]]
 file = "mods/unlock-all-recipes-94.1.jar"
@@ -7428,6 +7396,10 @@ hash = "5058444b320fc196d70b761e6842b8560df4b7b43573f08aa8a93ea6e5352d27"
 [[files]]
 file = "resources/common/required/DnT 5.1 Enchant Disabler.zip"
 hash = "e8c3c0a423f592cf7d4736bfaf262d6e884fe293d6d091479083da7f0ef5d85e"
+
+[[files]]
+file = "resources/common/required/graves-v1.3.1-denizen.zip"
+hash = "773a58108e82b06962a21d3f6a1abeba9a3d75ed37d63aa8d44b1cbc75f428d1"
 
 [[files]]
 file = "resources/common/required/polymania/data/illagerexp/advancement/adventure/find_mansion.json"
