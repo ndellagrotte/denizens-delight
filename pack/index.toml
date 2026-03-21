@@ -985,6 +985,22 @@ file = "config/zombiehorsespawn.json5"
 hash = "f2ae2047e8264c7b33a1f841c26713ffe3822a2d671b92169ce6fe955a7af739"
 
 [[files]]
+file = "datapacks/BlazeandCave's Advancements Pack 1.20.2.zip"
+hash = "41fba27c6c384afa402848e6ffb1b788842c81749a98e3bc60828488cdc95ca7"
+
+[[files]]
+file = "datapacks/DnT 5.1 Enchant Disabler.zip"
+hash = "e8c3c0a423f592cf7d4736bfaf262d6e884fe293d6d091479083da7f0ef5d85e"
+
+[[files]]
+file = "datapacks/graves-v1.3.1-denizen.zip"
+hash = "773a58108e82b06962a21d3f6a1abeba9a3d75ed37d63aa8d44b1cbc75f428d1"
+
+[[files]]
+file = "datapacks/saturated-vibe-port-v1.1.1p+1.21.11.zip"
+hash = "acae43e4fccddc0da6189e9c670b7fb3634729ad37fcf63c9b9c64b6c05a92de"
+
+[[files]]
 file = "fabric-server-mc.1.21.11-loader.0.18.4-launcher.1.1.1.jar"
 hash = "60691f63f90d5ace288e8f0964e2a69c3caa9da148a7d1ba79c8c00bccf025a3"
 
@@ -7380,20 +7396,8 @@ file = "polymer/override_assets/assets/traverse/models/block/yellow_autumnal_lea
 hash = "612cd7fb9ae2ea4a53b6628949d96476ddd234ecdb2c3fc04e7aa5776f638adf"
 
 [[files]]
-file = "resources/common/required/BlazeandCave's Advancements Pack 1.20.2.zip"
-hash = "41fba27c6c384afa402848e6ffb1b788842c81749a98e3bc60828488cdc95ca7"
-
-[[files]]
 file = "resources/common/required/DarkPaintings.zip"
 hash = "5058444b320fc196d70b761e6842b8560df4b7b43573f08aa8a93ea6e5352d27"
-
-[[files]]
-file = "resources/common/required/DnT 5.1 Enchant Disabler.zip"
-hash = "e8c3c0a423f592cf7d4736bfaf262d6e884fe293d6d091479083da7f0ef5d85e"
-
-[[files]]
-file = "resources/common/required/graves-v1.3.1-denizen.zip"
-hash = "773a58108e82b06962a21d3f6a1abeba9a3d75ed37d63aa8d44b1cbc75f428d1"
 
 [[files]]
 file = "resources/common/required/polymania/data/illagerexp/advancement/adventure/find_mansion.json"
@@ -7606,10 +7610,6 @@ hash = "0255c9650790a450dca8b7436b994d09c99f9589274607b5d92debf1be2d559a"
 [[files]]
 file = "resources/common/required/polymania/pack.mcmeta"
 hash = "8e2bbec2fbe72cdf30bb4380c4e01bfc0b42476bfa5412c30bf360ee75641275"
-
-[[files]]
-file = "resources/common/required/saturated-vibe-port-v1.1.1p+1.21.11.zip"
-hash = "acae43e4fccddc0da6189e9c670b7fb3634729ad37fcf63c9b9c64b6c05a92de"
 
 [[files]]
 file = "resources/common/required/translations-for-patboxs-mods.pw.toml"
