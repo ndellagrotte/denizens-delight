@@ -6,7 +6,7 @@ hash = "617064f434f5c3100fd16a095d60a5771eba580d89716033646d281088ce5bb0"
 
 [[files]]
 file = "config/ArcanaNovum.properties"
-hash = "13444a65ccdd373f01066b17d06f91beaf751e7239ee2612bb9eb84f505dea39"
+hash = "6f237b289c09b5fca8f74c8886ec15b00f0b57fa26a6414eea0557dd7cb50dea"
 
 [[files]]
 file = "config/NoChatReports/NCR-Client.json"
@@ -34,7 +34,7 @@ hash = "1e2282e3b786ac52a1e1d37628df9908d692c5ae4615bcad1a1654b296cc8f9c"
 
 [[files]]
 file = "config/armor_calculations.js"
-hash = "8974282b48841cc875d56ae1a2669f37d1d064adcc36d522d9d72a89a2bd78ae"
+hash = "dd24263631892be4d3d42f7ee8df84d7f963cdf3f2750d49d7b56c8ac8beb118"
 
 [[files]]
 file = "config/atlas-core/atlas-core-config.json"
@@ -46,7 +46,7 @@ hash = "d504a8f3a482b6c0dd3dbc5ce93e25d0f1f0728fc03f359c2c2e4733ab782c59"
 
 [[files]]
 file = "config/better_respawn/better_respawn.properties"
-hash = "504dbd8f44fbfb96bd4da4c071ade386e90fd83a56aca0a3b070a0750fab3e6a"
+hash = "0a38277ad6a47ab8dd3034fc25d6fbf7b8cebb42e0b3ee4f19fed979460e24b2"
 
 [[files]]
 file = "config/bettermodel/.cache/1.21.11.jar"
@@ -594,11 +594,11 @@ hash = "e21a989b0de21fce76a0dda063a195224c38f69083ddd962d3f7166c79c2f069"
 
 [[files]]
 file = "config/cts_crit_impl.js"
-hash = "94472c3299d4efe60ee7d5d702f69c169f3bb0c8202e1d3fb15f417558279aa4"
+hash = "d1c9d2f0af19f6c740504f95903fb4f99ae0adfa99fc92953f8825e093addfe0"
 
 [[files]]
 file = "config/cts_food_impl.js"
-hash = "ccaa260566275263a232fb926a91a732a0e7ad0c08e062fd9b97d6166d13890d"
+hash = "4655736a800dbd4e3717212d9656ed1f2eca83e15ad17c6d7d3315b623ceaf19"
 
 [[files]]
 file = "config/dynamiclights.json"
@@ -638,11 +638,11 @@ hash = "092f8c29303ff57976912813c7816088379b22c97065b579bf7a2da59a08e1bb"
 
 [[files]]
 file = "config/ferritecore.mixin.properties"
-hash = "bdd54ad580fc678a117e4f559daaed5ebbe0dde176127ddb95dd2d5e5b4e4818"
+hash = "fddb9f45485b7ae24191e3d94aa6e94a31016a8d4938d970d7f9877c79235732"
 
 [[files]]
 file = "config/forgeconfigapiport.toml"
-hash = "40dbe5b348f89b8ded62bcdfe32807ffc3e78fa8e0f81607a739580019fe5450"
+hash = "647ad92f7bdc5e0ccef37d6e7386b08f2a19715b77742202f2f9048fb14e0dec"
 
 [[files]]
 file = "config/friendsandfoes.json"
@@ -802,7 +802,7 @@ hash = "f6a4950e02e2e2aac4525c924b22500282fc27996d4385de466ab34ff8d6dcd6"
 
 [[files]]
 file = "config/simpleupdatechecker_modpack.json"
-hash = "2829225c8c6bb29176c5445790396320950966df59a92725da72d67bc3db2409"
+hash = "6b691b7fd4b8b2e6bc70e746353be6dd8c61d681d1d1da2143a15ee27252cd9e"
 
 [[files]]
 file = "config/simpleupdatechecker_user.json"
@@ -854,7 +854,7 @@ hash = "8057ccf4540ea269b0fc332225859f44d8f3a55d891fa2e7a3447b6202658d2a"
 
 [[files]]
 file = "config/spark/tmp/about.txt"
-hash = "d7514c0ddb6ae8611a281527bf04ca6cbcea1fa21758534fdcd08ed0f51c19c0"
+hash = "8057ccf4540ea269b0fc332225859f44d8f3a55d891fa2e7a3447b6202658d2a"
 
 [[files]]
 file = "config/spidersproducewebs.json5"
@@ -918,7 +918,7 @@ hash = "05b0f98e32f9e36ea6480e946a14ad168d6a8038744ac0ad92482487a2e4ce47"
 
 [[files]]
 file = "config/terrablender.toml"
-hash = "cff6a9a0d415b19b9852844c0ad5bb2b1cfdb9fce12e729e7228a6521fc95927"
+hash = "499d188162ddcf7fcf450cdcdc96bd41ac582501ecad5ed4a74dd9ed6b01990a"
 
 [[files]]
 file = "config/terrestria/biome.json"
@@ -958,11 +958,11 @@ hash = "27dcf3d63d1ba2a2e94eb02121c678bd9f3da167478becb8a5540a401631579c"
 
 [[files]]
 file = "config/vanilla_crit_impl.js"
-hash = "a8be2a63c3ffb97a1398d29ac99bf4a9bf318dc91bf604b94dbdcd04f4800d7c"
+hash = "55437b87e008bda68567b994539fec2e64dfc7a7492ee51f28c3cc9b4f3423ee"
 
 [[files]]
 file = "config/vanilla_food_impl.js"
-hash = "5208ae5621701f51a68529b413e346e845cc2b9f301169a680c3b1e8c8ddfbf6"
+hash = "1feaa0139fc41c6aa6b641c22dbd1bf9ed7ceb8e503179ede3c6ee6980fdf13e"
 
 [[files]]
 file = "config/vanilla_structures/placement_structure_config.json5"
@@ -1049,6 +1049,10 @@ file = "mods/ResourcefulLib-fabric-1.21.11-3.11.0.jar"
 hash = "7d3d4a78b567b99925762db1face1d7daec6e59a9c8be27da0bade67c02fd1a2"
 
 [[files]]
+file = "mods/ScalableLux-0.1.6+fabric.c25518a-all.jar"
+hash = "7a4a7371386183c755523b56b55a251d75ac2c23f40af8a4f0f8a335b05d4fc2"
+
+[[files]]
 file = "mods/Structory_1.21.x_v1.3.14.jar"
 hash = "59c3fea5135b15ff38970b971fc3a76d8b303de6c8b7fcb4e7358e957877e077"
 
@@ -1106,12 +1110,12 @@ file = "mods/beekeeperhut-fabric-3.0.2+mc1.21.11.jar"
 hash = "4d9d5672d9695782f7544a08fe6e460272f0af0f42ccd402d34c15117fadf435"
 
 [[files]]
-file = "mods/beta173dimension-fabric-0.0.2+1.21.jar"
-hash = "2d478bd088cbad5a980f6cef15ce584919a978a59b8ef1ac471ea1c62e8ac99f"
-
-[[files]]
 file = "mods/better-respawn-fabric-1.21.11-2.0.6.jar"
 hash = "d2a7cc8973dcfc6a5def70cf0f42bcfc0c9642b614f0ba1fd61808098bba634a"
+
+[[files]]
+file = "mods/bigger-stack-size-v2.3.3.jar"
+hash = "1d65dcd938bed5bad76168b47bf6387c10fb532affd6b0fe53074c36d18ee4c7"
 
 [[files]]
 file = "mods/biome_tag_villagers-1.4.0.jar"
@@ -1137,6 +1141,10 @@ hash = "d18e4f843e28d957eb1ef26bd154fa30de11658675837ec7b71e491289b6ec3b"
 [[files]]
 file = "mods/butterbee-1.0.4.jar"
 hash = "7cdcf1117180bfdde8c0b9f75765b3a496e35e4e18f7b3c93914e68f5a5056de"
+
+[[files]]
+file = "mods/c2me-fabric-mc1.21.11-0.3.7+alpha.0.9.jar"
+hash = "41ebef4ba0aca01ccb245b359a5e8a9534eb0453821b32f611fcea66aa92fe4f"
 
 [[files]]
 file = "mods/caveoverhaul-1.4.2.1.jar"
@@ -1196,11 +1204,6 @@ hash = "f24d6667ac14fd3390c21c2392a2e0036fa948f3a6a8d3611943eb194025f19c"
 [[files]]
 file = "mods/defaulted-fabric-1.21.9-1.2.1.jar"
 hash = "2e7aa3504b96e2076a4f6400aba149f0a514cc476198af40824f7e8ad555d350"
-
-[[files]]
-file = "mods/dimensionfixer.pw.toml"
-hash = "a82f6fffb202984f435a4e7158df4c1f728d8aed3f8a3e30a9348ed35caa89e3"
-metafile = true
 
 [[files]]
 file = "mods/dungeons+-1.11.1.jar"
@@ -1383,11 +1386,6 @@ hash = "8b8e0ee506949243e77e4417e2e7e0905107a39f10e1f44cafe3ec17ae333aa8"
 [[files]]
 file = "mods/mini-vfx-1.0.4+1.21.11.jar"
 hash = "a18ba7f194d82afd9df44ca26707f0a594099bae04c08606be4b8fa1a4820c89"
-
-[[files]]
-file = "mods/moderner-beta.pw.toml"
-hash = "f112d461fdbcdd1c69be89f7e0f0bd3658778fcd48135f045aeae16812efac2f"
-metafile = true
 
 [[files]]
 file = "mods/moogs-voyager-structures.pw.toml"
@@ -1658,10 +1656,6 @@ file = "mods/villagerconfig-fabric-4.5.2+1.21.11.jar"
 hash = "a74c790a71999748bf6fea6114e500c2c09bde581b56990aea55b6b1072899a6"
 
 [[files]]
-file = "mods/worldportal-fabric-0.0.10+1.21.11.jar"
-hash = "453274464bd32c04c3fdf8614f8ab91a4c5fe4a389172f95134652cfed6c9308"
-
-[[files]]
 file = "mods/yet_another_config_lib_v3-3.8.2+1.21.11-fabric.jar"
 hash = "49c279bc28c80ca17d6c21c3dd299ec1c115b892272f21b3f034ed782829babd"
 
@@ -1707,11 +1701,11 @@ hash = "99a195528cafd6961cb5b1fe04d262492730319978433ced3847d1be81470bd4"
 
 [[files]]
 file = "polymer/override_assets/assets/denizen/font/emoji.json"
-hash = "260240658b456393635f6bd49850b794cae75517eeaeef8f5064f60f3697b88d"
+hash = "cd4fc8d4250b45c22691082b5ebd1a7be7f9fe60fbd65a7e82407705a2d5176c"
 
 [[files]]
 file = "polymer/override_assets/assets/denizen/font/icons.json"
-hash = "3aaa717db2d92cc320a0af728dea0ecaca121500743628654320aea9f2a7f880"
+hash = "3fae9160059b3bb9c093d1b01d7f77dd582ebbe0b061ac13ae36035eaf1d0559"
 
 [[files]]
 file = "polymer/override_assets/assets/denizen/font/lato/regular.json"
@@ -1727,7 +1721,7 @@ hash = "dca3688ee051721f9c069773385477aa37d36f853832f50e964476a8c2627894"
 
 [[files]]
 file = "polymer/override_assets/assets/denizen/lang/en_us.json"
-hash = "6cc12ede4f270ea27228b721a6e26d7575faec32c104ef050123e6d6b9887821"
+hash = "7c98e39972a2d7b579ded5c8d8c73d04eb493d4592cc2b0877410e4af213aff0"
 
 [[files]]
 file = "polymer/override_assets/assets/denizen/textures/emoji/1f004.png"
@@ -7367,15 +7361,15 @@ hash = "c1ce77c528cda05dc13d6335eafdd326b445763c9ce94525d69797a1433eea2c"
 
 [[files]]
 file = "polymer/override_assets/assets/traverse/models/block/brown_autumnal_leaves.json"
-hash = "8c0fcc49f1be4c3fd8095def330a9c01caed818a9949cb7a577b13ee13316d1c"
+hash = "9bc3352f01259943fba6f2e2b1230e86f5d4bcf2312957366e00d4233db2944a"
 
 [[files]]
 file = "polymer/override_assets/assets/traverse/models/block/leaves.json"
-hash = "294858600109b0a0c9acafece02632ef99f6f86d54ba0a26484a2ce5c4877d08"
+hash = "b866395ab13e4a326b627b97db79f065e788677c6c74fd5c576ab90fa578c02c"
 
 [[files]]
 file = "polymer/override_assets/assets/traverse/models/block/orange_autumnal_leaves.json"
-hash = "0db6c02e316880311754de0f970554e8734e8831e44a998e4a71cccada5e2b66"
+hash = "40c58279f1832a2621288bd4bc8beccceca71ca14d8aa819ecf9eedcb34eda95"
 
 [[files]]
 file = "polymer/override_assets/assets/traverse/models/block/red_autumnal_leaves.json"
@@ -7383,7 +7377,7 @@ hash = "4622a2e4b1abd704483b29fc19545017e494bce7face706f38fc2d80a0436f3e"
 
 [[files]]
 file = "polymer/override_assets/assets/traverse/models/block/yellow_autumnal_leaves.json"
-hash = "f1875a54a116f25f699a35c144b75e125aef4f870774c87e9b4f907b55d2e639"
+hash = "612cd7fb9ae2ea4a53b6628949d96476ddd234ecdb2c3fc04e7aa5776f638adf"
 
 [[files]]
 file = "resources/common/required/BlazeandCave's Advancements Pack 1.20.2.zip"
