@@ -802,7 +802,7 @@ hash = "f6a4950e02e2e2aac4525c924b22500282fc27996d4385de466ab34ff8d6dcd6"
 
 [[files]]
 file = "config/simpleupdatechecker_modpack.json"
-hash = "208720a70b1984a97dc9a9638d02d0f51b66219098c9fff49f99b92d3371461d"
+hash = "2829225c8c6bb29176c5445790396320950966df59a92725da72d67bc3db2409"
 
 [[files]]
 file = "config/simpleupdatechecker_user.json"
@@ -1296,9 +1296,8 @@ file = "mods/ferritecore-8.2.0-fabric.jar"
 hash = "f76bd760cbf48280cc7c43180f5089a46235fa24d934a8acf3da04a664c2c715"
 
 [[files]]
-file = "mods/filament.pw.toml"
-hash = "0cccae3204a167e4ff24480754730e7811c87b5a80a8b4d3837fd5004ddceb29"
-metafile = true
+file = "mods/filament-1.3.22-patch1+1.21.1.jar"
+hash = "3bd1c0510708a12a5bbbfca5116e7a44bafe6ab38f60a51266ec46ddfbdaf1cb"
 
 [[files]]
 file = "mods/formations-1.0.4-fabric-mc1.21.11.jar"
@@ -1606,6 +1605,10 @@ hash = "4c8eb65867ef628b1a758d65a9588c959d4a960e3cda897c78274267eb7e362d"
 [[files]]
 file = "mods/sswaystones-1.3.0.jar"
 hash = "b026c0442c1f576b831632fb90c92bdeded2c1c2cc3db53d5bc2c6bd5add0975"
+
+[[files]]
+file = "mods/stackplus-1.0.0_1.21.11.jar"
+hash = "f416df217851f5e47785f4dac30f582d2538d64379a93673b6f020d9c319b43d"
 
 [[files]]
 file = "mods/starterkit-1.21.11-7.6.jar"
