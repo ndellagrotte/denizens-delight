@@ -1,11 +1,6 @@
 {
     "files": [
         {
-            "name": "tierlists/challenge.tierlist.json",
-            "md5": "83bc9147436b0191df8578bec2c79b59",
-            "createdAt": "2026-04-06T21:21:11.875407153Z"
-        },
-        {
             "name": "commands/on_pregame.mcfunction",
             "md5": "d41d8cd98f00b204e9800998ecf8427e",
             "createdAt": "2026-04-06T21:21:11.865926740Z"
@@ -26,29 +21,9 @@
             "createdAt": "2026-04-06T21:50:00.350350099Z"
         },
         {
-            "name": "tags/biome_specific.json",
-            "md5": "9123d0d7720a7f14c502da1d5b770bcc",
-            "createdAt": "2026-04-06T21:50:00.351338319Z"
-        },
-        {
-            "name": "kits/playerkit.json",
-            "md5": "ed515ac4b15ff14ed432e12db7893423",
-            "createdAt": "2026-04-06T21:21:11.874722857Z"
-        },
-        {
-            "name": "messages/scoreboard.json",
-            "md5": "aff10d00cd4531e82a266587d0d46ee3",
-            "createdAt": "2026-04-06T21:21:11.878689725Z"
-        },
-        {
             "name": "tierlists/advancements.tierlist.json",
             "md5": "eee26e3e9fb1344c6a961c8e64963711",
             "createdAt": "2026-04-06T21:51:20.401215978Z"
-        },
-        {
-            "name": "kits/teamkit.json",
-            "md5": "4bb8de40d2216ea83cef69f39f284797",
-            "createdAt": "2026-04-06T21:51:20.428699769Z"
         },
         {
             "name": "messages/game_start.json",
@@ -59,6 +34,31 @@
             "name": "messages/game_end.json",
             "md5": "8da63e289135f789de3caf937c871ebf",
             "createdAt": "2026-04-06T21:21:11.877833676Z"
+        },
+        {
+            "name": "tags/biome_specific.json",
+            "md5": "9123d0d7720a7f14c502da1d5b770bcc",
+            "createdAt": "2026-04-06T21:50:00.351338319Z"
+        },
+        {
+            "name": "kits/playerkit.json",
+            "md5": "ed515ac4b15ff14ed432e12db7893423",
+            "createdAt": "2026-04-06T21:21:11.874722857Z"
+        },
+        {
+            "name": "kits/teamkit.json",
+            "md5": "4bb8de40d2216ea83cef69f39f284797",
+            "createdAt": "2026-04-06T21:51:20.428699769Z"
+        },
+        {
+            "name": "tierlists/challenge.tierlist.json",
+            "md5": "83bc9147436b0191df8578bec2c79b59",
+            "createdAt": "2026-04-06T21:21:11.875407153Z"
+        },
+        {
+            "name": "messages/scoreboard.json",
+            "md5": "aff10d00cd4531e82a266587d0d46ee3",
+            "createdAt": "2026-04-06T21:21:11.878689725Z"
         },
         {
             "name": "tags/in_overworld.json",
