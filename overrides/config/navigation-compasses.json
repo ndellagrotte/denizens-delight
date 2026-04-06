@@ -1,0 +1,6 @@
+{
+  "biome_locator_enabled": true,
+  "structure_locator_enabled": true,
+  "search_range": 5000,
+  "search_cooldown": 600
+}
